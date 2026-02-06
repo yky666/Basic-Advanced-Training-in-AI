@@ -1,6 +1,6 @@
 # 面向复杂动态环境的移动机器人多约束自主导航与任务调度系统
 
-![ROS Version](https://img.shields.io/badge/ROS-Noetic-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Scorpio_Robot-orange.svg) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![ROS Version](https://img.shields.io/badge/ROS-Noetic-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Scorpio_Robot-orange.svg) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B-green.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 > **中山大学智能工程学院“人工智能基础与进阶实训”期末优秀项目 (满分通过)**
 > 
@@ -100,5 +100,5 @@ python3 src/scorpio/scorpio_teleop/scripts/goal_pub_loop.py record
 
 ## 📄 许可证 (License)
 
-本项目采用 MIT 许可证。
+本项目采用 [Apache License 2.0](LICENSE) 许可证。
 
