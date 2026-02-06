@@ -102,6 +102,3 @@ python3 src/scorpio/scorpio_teleop/scripts/goal_pub_loop.py record
 
 本项目采用 MIT 许可证。
 
-```
-
-```
