@@ -1,14 +1,3 @@
-这是一个修复了格式问题的完整 `README.md` 代码。
-
-**修复重点：**
-
-1. **修复格式错乱**：确保了“文件结构”的代码块正确闭合，与下面的“安装与运行”部分有清晰的空行分隔，防止内容粘连。
-2. **目录结构校准**：根据您提供的截图（`src/scorpio` 和 `src/scorpio_app` 分离），修正了文件树结构，使其完全匹配您的真实项目路径。
-3. **美化排版**：使用了清晰的层级和图标，直接复制即可使用。
-
-请将以下内容**完全覆盖**您仓库根目录下的 `README.md` 文件。
-
-```markdown
 # 面向复杂动态环境的移动机器人多约束自主导航与任务调度系统
 
 ![ROS Version](https://img.shields.io/badge/ROS-Noetic-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Scorpio_Robot-orange.svg) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
