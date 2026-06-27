@@ -1,0 +1,46 @@
+<launch>
+  <arg name="bot_0_name" default="robot_0"/>   <!-- first robot arg define -->
+  <arg name="bot_0_x_pos" default="0.0"/>
+  <arg name="bot_0_y_pos" default="0.0"/>
+  <arg name="bot_0_z_pos" default="0.0"/>
+
+  <arg name="bot_1_name" default="robot_1"/>   <!-- second robot arg define  -->
+  <arg name="bot_1_x_pos" default="0.0"/>
+  <arg name="bot_1_y_pos" default="1.0"/>
+  <arg name="bot_1_z_pos" default="0.0"/>
+
+  <param name="/use_sim_time" value="true" />  
+  
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find robot_description)/worlds/room.world"/>
+    <arg name="paused" value="false"/>
+    <arg name="use_sim_time" value="true"/>
+    <arg name="gui" value="true"/>
+    <arg name="headless" value="false"/>
+    <arg name="debug" value="false"/>
+  </include>
+
+  <group ns="$(arg bot_0_name)"> <!-- spawn first robot  -->
+    <param name="tf_prefix" value="$(arg bot_0_name)" />
+    <param name="robot_description" command="$(find xacro)/xacro --inorder 
+    $(find robot_description)/urdf/robot_description.urdf.xacro robot_name:=/$(arg bot_0_name)" />
+    
+    <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf"  
+      args="-urdf -model $(arg bot_0_name) -x $(arg bot_0_x_pos) -y $(arg bot_0_y_pos) -z $(arg bot_0_z_pos) 
+      -robot_name $(arg bot_0_name) -param robot_description" />
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+  </group>
+
+  <group ns="$(arg bot_1_name)">  <!-- spawn second robot  -->
+    <param name="tf_prefix" value="$(arg bot_1_name)" />
+    <param name="robot_description" command="$(find xacro)/xacro --inorder 
+    $(find robot_description)/urdf/robot_description.urdf.xacro robot_name:=/$(arg bot_1_name)" />
+    
+    <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf"    
+      args="-urdf -model $(arg bot_1_name) -x $(arg bot_1_x_pos) -y $(arg bot_1_y_pos) -z $(arg bot_1_z_pos) 
+      -robot_name $(arg bot_1_name) -param robot_description" />
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+  </group>
+
+</launch>
+

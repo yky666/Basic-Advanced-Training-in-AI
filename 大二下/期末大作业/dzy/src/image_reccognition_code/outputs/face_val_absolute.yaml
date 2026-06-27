@@ -1,0 +1,9 @@
+path: D:/Kaiyuan/UGRD/大二/作业/人工智能基础与进阶实训/大二下/期末大作业/image_reccognition_code/prepared_datasets/face
+train: images/train
+val: images/val
+
+names:
+  0: dengziqi
+  1: liuyifei
+  2: renxianqi
+  3: sabeining

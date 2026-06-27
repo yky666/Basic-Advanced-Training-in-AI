@@ -1,0 +1,7427 @@
+[
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\0.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\1.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.11,
+          0.0,
+          311.97,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.86,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\10.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\100.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\101.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9829,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\102.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.13,
+          0.0,
+          313.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.87,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\103.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9881,
+        "bbox": [
+          0.17,
+          0.0,
+          302.98,
+          215.0
+        ],
+        "bbox_size": {
+          "width": 302.81,
+          "height": 215.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\104.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9805,
+        "bbox": [
+          0.66,
+          0.0,
+          311.82,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.16,
+          "height": 207.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\105.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.18,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.82,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\106.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\107.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\108.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.988,
+        "bbox": [
+          0.24,
+          0.08,
+          311.8,
+          207.72
+        ],
+        "bbox_size": {
+          "width": 311.56,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\109.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\11.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9841,
+        "bbox": [
+          0.32,
+          0.0,
+          312.0,
+          207.68
+        ],
+        "bbox_size": {
+          "width": 311.68,
+          "height": 207.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\110.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.27,
+          0.0,
+          311.64,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.37,
+          "height": 207.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\111.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9864,
+        "bbox": [
+          0.27,
+          0.0,
+          311.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\112.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9881,
+        "bbox": [
+          0.17,
+          0.0,
+          302.98,
+          215.0
+        ],
+        "bbox_size": {
+          "width": 302.81,
+          "height": 215.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\113.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          207.64
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\114.jpg",
+    "image_size": {
+      "width": 320,
+      "height": 204
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.09,
+          0.0,
+          319.86,
+          203.47
+        ],
+        "bbox_size": {
+          "width": 319.77,
+          "height": 203.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\115.jpg",
+    "image_size": {
+      "width": 273,
+      "height": 239
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9818,
+        "bbox": [
+          0.08,
+          0.0,
+          272.89,
+          238.31
+        ],
+        "bbox_size": {
+          "width": 272.81,
+          "height": 238.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\116.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.8852,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.84
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\117.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9067,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\118.jpg",
+    "image_size": {
+      "width": 315,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9879,
+        "bbox": [
+          0.31,
+          0.06,
+          314.73,
+          205.02
+        ],
+        "bbox_size": {
+          "width": 314.42,
+          "height": 204.96
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\119.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.982,
+        "bbox": [
+          0.16,
+          0.0,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.84,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\12.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9906,
+        "bbox": [
+          0.15,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.78,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\120.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\121.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\122.jpg",
+    "image_size": {
+      "width": 278,
+      "height": 234
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.12,
+          0.0,
+          277.93,
+          233.87
+        ],
+        "bbox_size": {
+          "width": 277.81,
+          "height": 233.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\123.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9855,
+        "bbox": [
+          0.31,
+          0.18,
+          323.38,
+          200.63
+        ],
+        "bbox_size": {
+          "width": 323.07,
+          "height": 200.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\124.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\125.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\126.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\127.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\128.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\129.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\13.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9787,
+        "bbox": [
+          0.0,
+          0.47,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.53
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\130.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          0.07,
+          0.03,
+          254.97,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\131.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\132.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9785,
+        "bbox": [
+          0.2,
+          0.0,
+          301.76,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.56,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\133.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9795,
+        "bbox": [
+          0.21,
+          0.29,
+          294.86,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 220.71
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\134.jpg",
+    "image_size": {
+      "width": 320,
+      "height": 204
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.09,
+          0.0,
+          319.86,
+          203.47
+        ],
+        "bbox_size": {
+          "width": 319.77,
+          "height": 203.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\135.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\136.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\137.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9875,
+        "bbox": [
+          0.19,
+          0.3,
+          311.85,
+          207.88
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\138.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\139.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          207.64
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\14.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9785,
+        "bbox": [
+          0.2,
+          0.0,
+          301.76,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.56,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\140.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\141.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.31,
+          0.79,
+          323.97,
+          201.27
+        ],
+        "bbox_size": {
+          "width": 323.66,
+          "height": 200.48
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\142.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9885,
+        "bbox": [
+          0.32,
+          0.0,
+          305.68,
+          212.67
+        ],
+        "bbox_size": {
+          "width": 305.36,
+          "height": 212.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\143.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.928,
+        "bbox": [
+          0.0,
+          0.53,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\144.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9828,
+        "bbox": [
+          0.43,
+          0.0,
+          302.0,
+          215.98
+        ],
+        "bbox_size": {
+          "width": 301.57,
+          "height": 215.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\145.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9726,
+        "bbox": [
+          0.11,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.89,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\146.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9811,
+        "bbox": [
+          0.16,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.84,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\147.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.0,
+          0.0,
+          311.8,
+          207.52
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\148.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.12,
+          0.0,
+          310.12,
+          207.63
+        ],
+        "bbox_size": {
+          "width": 310.0,
+          "height": 207.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\149.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9729,
+        "bbox": [
+          0.0,
+          0.0,
+          207.58,
+          311.45
+        ],
+        "bbox_size": {
+          "width": 207.58,
+          "height": 311.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\15.jpg",
+    "image_size": {
+      "width": 315,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9879,
+        "bbox": [
+          0.31,
+          0.06,
+          314.73,
+          205.02
+        ],
+        "bbox_size": {
+          "width": 314.42,
+          "height": 204.96
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\150.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.0,
+          0.0,
+          311.8,
+          207.52
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\151.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.12,
+          0.0,
+          310.12,
+          207.63
+        ],
+        "bbox_size": {
+          "width": 310.0,
+          "height": 207.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\152.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9812,
+        "bbox": [
+          0.24,
+          0.0,
+          312.95,
+          208.94
+        ],
+        "bbox_size": {
+          "width": 312.71,
+          "height": 208.94
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\153.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9885,
+        "bbox": [
+          0.32,
+          0.0,
+          305.68,
+          212.67
+        ],
+        "bbox_size": {
+          "width": 305.36,
+          "height": 212.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\154.jpg",
+    "image_size": {
+      "width": 210,
+      "height": 310
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9759,
+        "bbox": [
+          0.0,
+          0.0,
+          210.0,
+          308.76
+        ],
+        "bbox_size": {
+          "width": 210.0,
+          "height": 308.76
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\155.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9659,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\156.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9546,
+        "bbox": [
+          0.35,
+          0.0,
+          292.35,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.0,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\157.jpg",
+    "image_size": {
+      "width": 307,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.15,
+          0.39,
+          307.0,
+          213.0
+        ],
+        "bbox_size": {
+          "width": 306.85,
+          "height": 212.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\158.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.17,
+          0.0,
+          311.87,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\159.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9694,
+        "bbox": [
+          0.22,
+          0.0,
+          301.09,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 300.87,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\16.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9892,
+        "bbox": [
+          0.4,
+          0.0,
+          224.63,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.23,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\160.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9802,
+        "bbox": [
+          0.06,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 339.94,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\161.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\162.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.8315,
+        "bbox": [
+          0.01,
+          0.0,
+          254.86,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.85,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\163.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9857,
+        "bbox": [
+          0.0,
+          0.0,
+          305.87,
+          212.8
+        ],
+        "bbox_size": {
+          "width": 305.87,
+          "height": 212.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\164.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9817,
+        "bbox": [
+          0.2,
+          0.03,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\165.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.6253,
+        "bbox": [
+          0.1,
+          0.42,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.9,
+          "height": 220.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\166.jpg",
+    "image_size": {
+      "width": 273,
+      "height": 239
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9818,
+        "bbox": [
+          0.08,
+          0.0,
+          272.89,
+          238.31
+        ],
+        "bbox_size": {
+          "width": 272.81,
+          "height": 238.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\167.jpg",
+    "image_size": {
+      "width": 199,
+      "height": 327
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9568,
+        "bbox": [
+          0.01,
+          0.09,
+          197.77,
+          327.0
+        ],
+        "bbox_size": {
+          "width": 197.76,
+          "height": 326.91
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\168.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 313
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9578,
+        "bbox": [
+          0.0,
+          0.01,
+          207.46,
+          313.0
+        ],
+        "bbox_size": {
+          "width": 207.46,
+          "height": 312.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\169.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.34,
+          0.0,
+          301.0,
+          216.15
+        ],
+        "bbox_size": {
+          "width": 300.66,
+          "height": 216.15
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\17.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9875,
+        "bbox": [
+          0.19,
+          0.3,
+          311.85,
+          207.88
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\170.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\171.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9855,
+        "bbox": [
+          0.31,
+          0.18,
+          323.38,
+          200.63
+        ],
+        "bbox_size": {
+          "width": 323.07,
+          "height": 200.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\172.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\173.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\174.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.26,
+          0.0,
+          311.8,
+          207.7
+        ],
+        "bbox_size": {
+          "width": 311.54,
+          "height": 207.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\175.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\176.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          207.64
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\177.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9875,
+        "bbox": [
+          0.19,
+          0.3,
+          311.85,
+          207.88
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\178.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.42,
+          0.0,
+          311.77,
+          207.83
+        ],
+        "bbox_size": {
+          "width": 311.35,
+          "height": 207.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\179.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\18.jpg",
+    "image_size": {
+      "width": 292,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9598,
+        "bbox": [
+          0.13,
+          0.0,
+          291.97,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 291.84,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\180.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9885,
+        "bbox": [
+          0.32,
+          0.0,
+          305.68,
+          212.67
+        ],
+        "bbox_size": {
+          "width": 305.36,
+          "height": 212.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\181.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9659,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\182.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.0,
+          0.0,
+          311.8,
+          207.52
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\183.jpg",
+    "image_size": {
+      "width": 327,
+      "height": 200
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.03,
+          0.0,
+          327.0,
+          199.57
+        ],
+        "bbox_size": {
+          "width": 326.97,
+          "height": 199.57
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\184.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\185.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9729,
+        "bbox": [
+          0.0,
+          0.0,
+          207.58,
+          311.45
+        ],
+        "bbox_size": {
+          "width": 207.58,
+          "height": 311.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\186.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.0,
+          0.0,
+          311.8,
+          207.52
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\187.jpg",
+    "image_size": {
+      "width": 296,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9673,
+        "bbox": [
+          0.05,
+          0.08,
+          296.0,
+          220.99
+        ],
+        "bbox_size": {
+          "width": 295.95,
+          "height": 220.91
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\188.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9729,
+        "bbox": [
+          0.0,
+          0.0,
+          207.58,
+          311.45
+        ],
+        "bbox_size": {
+          "width": 207.58,
+          "height": 311.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\189.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9812,
+        "bbox": [
+          0.24,
+          0.0,
+          312.95,
+          208.94
+        ],
+        "bbox_size": {
+          "width": 312.71,
+          "height": 208.94
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\19.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\190.jpg",
+    "image_size": {
+      "width": 276,
+      "height": 236
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9889,
+        "bbox": [
+          0.0,
+          0.01,
+          275.99,
+          235.81
+        ],
+        "bbox_size": {
+          "width": 275.99,
+          "height": 235.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\191.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9659,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\192.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\193.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\194.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\195.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\196.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\197.jpg",
+    "image_size": {
+      "width": 278,
+      "height": 234
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.12,
+          0.0,
+          277.93,
+          233.87
+        ],
+        "bbox_size": {
+          "width": 277.81,
+          "height": 233.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\198.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\199.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9869,
+        "bbox": [
+          0.13,
+          0.0,
+          304.0,
+          213.81
+        ],
+        "bbox_size": {
+          "width": 303.87,
+          "height": 213.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\2.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\20.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9875,
+        "bbox": [
+          0.19,
+          0.3,
+          311.85,
+          207.88
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\200.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9877,
+        "bbox": [
+          0.2,
+          0.0,
+          311.96,
+          207.65
+        ],
+        "bbox_size": {
+          "width": 311.76,
+          "height": 207.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\201.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\202.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9865,
+        "bbox": [
+          0.2,
+          0.0,
+          302.0,
+          214.48
+        ],
+        "bbox_size": {
+          "width": 301.8,
+          "height": 214.48
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\203.jpg",
+    "image_size": {
+      "width": 270,
+      "height": 241
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9706,
+        "bbox": [
+          0.06,
+          0.0,
+          268.8,
+          239.86
+        ],
+        "bbox_size": {
+          "width": 268.74,
+          "height": 239.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\204.jpg",
+    "image_size": {
+      "width": 328,
+      "height": 199
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9563,
+        "bbox": [
+          0.28,
+          0.0,
+          328.0,
+          199.0
+        ],
+        "bbox_size": {
+          "width": 327.72,
+          "height": 199.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\205.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\206.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9389,
+        "bbox": [
+          0.0,
+          0.14,
+          254.66,
+          254.74
+        ],
+        "bbox_size": {
+          "width": 254.66,
+          "height": 254.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\207.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9736,
+        "bbox": [
+          0.28,
+          0.04,
+          340.0,
+          190.39
+        ],
+        "bbox_size": {
+          "width": 339.72,
+          "height": 190.35
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\208.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9802,
+        "bbox": [
+          0.06,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 339.94,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\209.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9691,
+        "bbox": [
+          0.21,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.79,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\21.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9892,
+        "bbox": [
+          0.4,
+          0.0,
+          224.63,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.23,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\210.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\211.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\212.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.18,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.82,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\213.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9862,
+        "bbox": [
+          0.19,
+          0.0,
+          311.94,
+          207.89
+        ],
+        "bbox_size": {
+          "width": 311.75,
+          "height": 207.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\214.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.24,
+          0.1,
+          305.99,
+          212.77
+        ],
+        "bbox_size": {
+          "width": 305.75,
+          "height": 212.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\215.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\216.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\217.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9571,
+        "bbox": [
+          0.05,
+          0.44,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\218.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          0.07,
+          0.03,
+          254.97,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\219.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\22.jpg",
+    "image_size": {
+      "width": 315,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.99,
+        "bbox": [
+          0.3,
+          0.06,
+          314.97,
+          205.92
+        ],
+        "bbox_size": {
+          "width": 314.67,
+          "height": 205.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\220.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9712,
+        "bbox": [
+          0.12,
+          0.48,
+          254.95,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.83,
+          "height": 254.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\221.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9864,
+        "bbox": [
+          0.27,
+          0.0,
+          311.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\222.jpg",
+    "image_size": {
+      "width": 270,
+      "height": 241
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9706,
+        "bbox": [
+          0.06,
+          0.0,
+          268.8,
+          239.86
+        ],
+        "bbox_size": {
+          "width": 268.74,
+          "height": 239.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\223.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.928,
+        "bbox": [
+          0.0,
+          0.53,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\224.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.07,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.86,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\225.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9571,
+        "bbox": [
+          0.05,
+          0.44,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\226.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          0.07,
+          0.03,
+          254.97,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\227.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9865,
+        "bbox": [
+          0.2,
+          0.0,
+          302.0,
+          214.48
+        ],
+        "bbox_size": {
+          "width": 301.8,
+          "height": 214.48
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\228.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\229.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9802,
+        "bbox": [
+          0.06,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 339.94,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\23.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\230.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.15,
+          0.17,
+          317.0,
+          205.41
+        ],
+        "bbox_size": {
+          "width": 316.85,
+          "height": 205.24
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\231.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9389,
+        "bbox": [
+          0.0,
+          0.14,
+          254.66,
+          254.74
+        ],
+        "bbox_size": {
+          "width": 254.66,
+          "height": 254.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\232.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9736,
+        "bbox": [
+          0.28,
+          0.04,
+          340.0,
+          190.39
+        ],
+        "bbox_size": {
+          "width": 339.72,
+          "height": 190.35
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\233.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.17,
+          0.0,
+          304.82,
+          212.86
+        ],
+        "bbox_size": {
+          "width": 304.65,
+          "height": 212.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\234.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.17,
+          0.0,
+          304.82,
+          212.86
+        ],
+        "bbox_size": {
+          "width": 304.65,
+          "height": 212.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\235.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\236.jpg",
+    "image_size": {
+      "width": 321,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9517,
+        "bbox": [
+          0.0,
+          0.0,
+          321.0,
+          203.0
+        ],
+        "bbox_size": {
+          "width": 321.0,
+          "height": 203.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\237.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9389,
+        "bbox": [
+          0.0,
+          0.14,
+          254.66,
+          254.74
+        ],
+        "bbox_size": {
+          "width": 254.66,
+          "height": 254.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\238.jpg",
+    "image_size": {
+      "width": 308,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9717,
+        "bbox": [
+          0.71,
+          0.0,
+          308.0,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 307.29,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\239.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9736,
+        "bbox": [
+          0.28,
+          0.04,
+          340.0,
+          190.39
+        ],
+        "bbox_size": {
+          "width": 339.72,
+          "height": 190.35
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\24.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\240.jpg",
+    "image_size": {
+      "width": 316,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9695,
+        "bbox": [
+          0.53,
+          0.0,
+          316.0,
+          206.95
+        ],
+        "bbox_size": {
+          "width": 315.47,
+          "height": 206.95
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\241.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9691,
+        "bbox": [
+          0.21,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.79,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\242.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9573,
+        "bbox": [
+          0.0,
+          0.0,
+          301.62,
+          207.82
+        ],
+        "bbox_size": {
+          "width": 301.62,
+          "height": 207.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\243.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.936,
+        "bbox": [
+          0.01,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 300.99,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\244.jpg",
+    "image_size": {
+      "width": 321,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          22.75,
+          0.21,
+          294.15,
+          202.91
+        ],
+        "bbox_size": {
+          "width": 271.4,
+          "height": 202.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\245.jpg",
+    "image_size": {
+      "width": 328,
+      "height": 199
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9563,
+        "bbox": [
+          0.28,
+          0.0,
+          328.0,
+          199.0
+        ],
+        "bbox_size": {
+          "width": 327.72,
+          "height": 199.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\246.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9775,
+        "bbox": [
+          0.09,
+          0.0,
+          299.81,
+          216.61
+        ],
+        "bbox_size": {
+          "width": 299.72,
+          "height": 216.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\247.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.17,
+          0.0,
+          311.87,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\248.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\249.jpg",
+    "image_size": {
+      "width": 328,
+      "height": 199
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9563,
+        "bbox": [
+          0.28,
+          0.0,
+          328.0,
+          199.0
+        ],
+        "bbox_size": {
+          "width": 327.72,
+          "height": 199.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\25.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.986,
+        "bbox": [
+          0.08,
+          0.0,
+          311.95,
+          207.45
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\250.jpg",
+    "image_size": {
+      "width": 321,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9517,
+        "bbox": [
+          0.0,
+          0.0,
+          321.0,
+          203.0
+        ],
+        "bbox_size": {
+          "width": 321.0,
+          "height": 203.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\251.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9389,
+        "bbox": [
+          0.0,
+          0.14,
+          254.66,
+          254.74
+        ],
+        "bbox_size": {
+          "width": 254.66,
+          "height": 254.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\252.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.11,
+          0.0,
+          311.97,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.86,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\253.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9881,
+        "bbox": [
+          0.17,
+          0.0,
+          302.98,
+          215.0
+        ],
+        "bbox_size": {
+          "width": 302.81,
+          "height": 215.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\254.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          207.64
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\255.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\256.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.42,
+          0.0,
+          311.77,
+          207.83
+        ],
+        "bbox_size": {
+          "width": 311.35,
+          "height": 207.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\257.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9805,
+        "bbox": [
+          0.66,
+          0.0,
+          311.82,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.16,
+          "height": 207.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\258.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.11,
+          0.0,
+          311.97,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.86,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\259.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\26.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\260.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\261.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          207.64
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\262.jpg",
+    "image_size": {
+      "width": 292,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9598,
+        "bbox": [
+          0.13,
+          0.0,
+          291.97,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 291.84,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\263.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.17,
+          0.0,
+          304.82,
+          212.86
+        ],
+        "bbox_size": {
+          "width": 304.65,
+          "height": 212.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\264.jpg",
+    "image_size": {
+      "width": 308,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9717,
+        "bbox": [
+          0.71,
+          0.0,
+          308.0,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 307.29,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\265.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9694,
+        "bbox": [
+          0.22,
+          0.0,
+          301.09,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 300.87,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\266.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.17,
+          0.0,
+          311.87,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\267.jpg",
+    "image_size": {
+      "width": 321,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9517,
+        "bbox": [
+          0.0,
+          0.0,
+          321.0,
+          203.0
+        ],
+        "bbox_size": {
+          "width": 321.0,
+          "height": 203.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\268.jpg",
+    "image_size": {
+      "width": 321,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          22.75,
+          0.21,
+          294.15,
+          202.91
+        ],
+        "bbox_size": {
+          "width": 271.4,
+          "height": 202.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\269.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.17,
+          0.0,
+          304.82,
+          212.86
+        ],
+        "bbox_size": {
+          "width": 304.65,
+          "height": 212.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\27.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9895,
+        "bbox": [
+          0.32,
+          0.0,
+          323.0,
+          201.29
+        ],
+        "bbox_size": {
+          "width": 322.68,
+          "height": 201.29
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\270.jpg",
+    "image_size": {
+      "width": 328,
+      "height": 199
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9563,
+        "bbox": [
+          0.28,
+          0.0,
+          328.0,
+          199.0
+        ],
+        "bbox_size": {
+          "width": 327.72,
+          "height": 199.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\271.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.97,
+        "bbox": [
+          0.0,
+          0.0,
+          301.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.0,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\272.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.17,
+          0.0,
+          311.87,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\273.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9691,
+        "bbox": [
+          0.21,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.79,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\274.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.15,
+          0.17,
+          317.0,
+          205.41
+        ],
+        "bbox_size": {
+          "width": 316.85,
+          "height": 205.24
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\28.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\29.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.987,
+        "bbox": [
+          0.0,
+          0.24,
+          322.95,
+          201.49
+        ],
+        "bbox_size": {
+          "width": 322.95,
+          "height": 201.25
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\3.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9881,
+        "bbox": [
+          0.17,
+          0.0,
+          302.98,
+          215.0
+        ],
+        "bbox_size": {
+          "width": 302.81,
+          "height": 215.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\30.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\31.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9884,
+        "bbox": [
+          0.19,
+          0.0,
+          312.97,
+          207.85
+        ],
+        "bbox_size": {
+          "width": 312.78,
+          "height": 207.85
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\32.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\33.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9885,
+        "bbox": [
+          0.19,
+          0.0,
+          303.97,
+          214.24
+        ],
+        "bbox_size": {
+          "width": 303.78,
+          "height": 214.24
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\34.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\35.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.987,
+        "bbox": [
+          0.0,
+          0.24,
+          322.95,
+          201.49
+        ],
+        "bbox_size": {
+          "width": 322.95,
+          "height": 201.25
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\36.jpg",
+    "image_size": {
+      "width": 270,
+      "height": 241
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9706,
+        "bbox": [
+          0.06,
+          0.0,
+          268.8,
+          239.86
+        ],
+        "bbox_size": {
+          "width": 268.74,
+          "height": 239.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\37.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9864,
+        "bbox": [
+          0.27,
+          0.0,
+          311.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\38.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.928,
+        "bbox": [
+          0.0,
+          0.53,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\39.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\4.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\40.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\41.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\42.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.8852,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.84
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\43.jpg",
+    "image_size": {
+      "width": 273,
+      "height": 239
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9818,
+        "bbox": [
+          0.08,
+          0.0,
+          272.89,
+          238.31
+        ],
+        "bbox_size": {
+          "width": 272.81,
+          "height": 238.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\44.jpg",
+    "image_size": {
+      "width": 320,
+      "height": 204
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.09,
+          0.0,
+          319.86,
+          203.47
+        ],
+        "bbox_size": {
+          "width": 319.77,
+          "height": 203.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\45.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9067,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\46.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9787,
+        "bbox": [
+          0.0,
+          0.47,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.53
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\47.jpg",
+    "image_size": {
+      "width": 285,
+      "height": 228
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.18,
+          0.0,
+          285.0,
+          227.65
+        ],
+        "bbox_size": {
+          "width": 284.82,
+          "height": 227.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\48.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\49.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          0.07,
+          0.03,
+          254.97,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\5.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.0,
+          0.0,
+          311.8,
+          207.52
+        ],
+        "bbox_size": {
+          "width": 311.8,
+          "height": 207.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\50.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.34,
+          0.0,
+          301.0,
+          216.15
+        ],
+        "bbox_size": {
+          "width": 300.66,
+          "height": 216.15
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\51.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9712,
+        "bbox": [
+          0.12,
+          0.48,
+          254.95,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.83,
+          "height": 254.52
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\52.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\53.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\54.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.18,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.82,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\55.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9864,
+        "bbox": [
+          0.27,
+          0.0,
+          311.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\56.jpg",
+    "image_size": {
+      "width": 278,
+      "height": 234
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.12,
+          0.0,
+          277.93,
+          233.87
+        ],
+        "bbox_size": {
+          "width": 277.81,
+          "height": 233.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\57.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\58.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9829,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\59.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\6.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9872,
+        "bbox": [
+          0.26,
+          0.0,
+          311.8,
+          207.7
+        ],
+        "bbox_size": {
+          "width": 311.54,
+          "height": 207.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\60.jpg",
+    "image_size": {
+      "width": 327,
+      "height": 200
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.03,
+          0.0,
+          327.0,
+          199.57
+        ],
+        "bbox_size": {
+          "width": 326.97,
+          "height": 199.57
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\61.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 237
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9807,
+        "bbox": [
+          0.11,
+          0.0,
+          275.0,
+          236.56
+        ],
+        "bbox_size": {
+          "width": 274.89,
+          "height": 236.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\62.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9878,
+        "bbox": [
+          0.27,
+          0.0,
+          311.64,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.37,
+          "height": 207.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\63.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\64.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9881,
+        "bbox": [
+          0.17,
+          0.0,
+          302.98,
+          215.0
+        ],
+        "bbox_size": {
+          "width": 302.81,
+          "height": 215.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\65.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9892,
+        "bbox": [
+          0.4,
+          0.0,
+          224.63,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.23,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\66.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\67.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9829,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\68.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9792,
+        "bbox": [
+          0.06,
+          0.13,
+          254.88,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\69.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\7.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9906,
+        "bbox": [
+          0.15,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.78,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\70.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9701,
+        "bbox": [
+          0.0,
+          0.21,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\71.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9855,
+        "bbox": [
+          0.31,
+          0.18,
+          323.38,
+          200.63
+        ],
+        "bbox_size": {
+          "width": 323.07,
+          "height": 200.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\72.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9757,
+        "bbox": [
+          0.12,
+          0.0,
+          310.12,
+          207.63
+        ],
+        "bbox_size": {
+          "width": 310.0,
+          "height": 207.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\73.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9659,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\74.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9812,
+        "bbox": [
+          0.24,
+          0.0,
+          312.95,
+          208.94
+        ],
+        "bbox_size": {
+          "width": 312.71,
+          "height": 208.94
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\75.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9729,
+        "bbox": [
+          0.0,
+          0.0,
+          207.58,
+          311.45
+        ],
+        "bbox_size": {
+          "width": 207.58,
+          "height": 311.45
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\76.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 213
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9885,
+        "bbox": [
+          0.32,
+          0.0,
+          305.68,
+          212.67
+        ],
+        "bbox_size": {
+          "width": 305.36,
+          "height": 212.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\77.jpg",
+    "image_size": {
+      "width": 210,
+      "height": 310
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9759,
+        "bbox": [
+          0.0,
+          0.0,
+          210.0,
+          308.76
+        ],
+        "bbox_size": {
+          "width": 210.0,
+          "height": 308.76
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\78.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9747,
+        "bbox": [
+          0.18,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.82,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\79.jpg",
+    "image_size": {
+      "width": 280,
+      "height": 233
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9772,
+        "bbox": [
+          0.15,
+          0.0,
+          279.24,
+          233.0
+        ],
+        "bbox_size": {
+          "width": 279.09,
+          "height": 233.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\8.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9892,
+        "bbox": [
+          0.4,
+          0.0,
+          224.63,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.23,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\80.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9865,
+        "bbox": [
+          0.2,
+          0.0,
+          302.0,
+          214.48
+        ],
+        "bbox_size": {
+          "width": 301.8,
+          "height": 214.48
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\81.jpg",
+    "image_size": {
+      "width": 296,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9673,
+        "bbox": [
+          0.05,
+          0.08,
+          296.0,
+          220.99
+        ],
+        "bbox_size": {
+          "width": 295.95,
+          "height": 220.91
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\82.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9571,
+        "bbox": [
+          0.05,
+          0.44,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\83.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9869,
+        "bbox": [
+          0.13,
+          0.0,
+          304.0,
+          213.81
+        ],
+        "bbox_size": {
+          "width": 303.87,
+          "height": 213.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\84.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9785,
+        "bbox": [
+          0.2,
+          0.0,
+          301.76,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.56,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\85.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\86.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 313
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9737,
+        "bbox": [
+          0.77,
+          0.06,
+          206.97,
+          312.08
+        ],
+        "bbox_size": {
+          "width": 206.2,
+          "height": 312.02
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\87.jpg",
+    "image_size": {
+      "width": 320,
+      "height": 204
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9823,
+        "bbox": [
+          0.09,
+          0.0,
+          319.86,
+          203.47
+        ],
+        "bbox_size": {
+          "width": 319.77,
+          "height": 203.47
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\88.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9875,
+        "bbox": [
+          0.19,
+          0.3,
+          311.85,
+          207.88
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\89.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9841,
+        "bbox": [
+          0.32,
+          0.0,
+          312.0,
+          207.68
+        ],
+        "bbox_size": {
+          "width": 311.68,
+          "height": 207.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\9.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9854,
+        "bbox": [
+          0.3,
+          0.0,
+          312.98,
+          207.61
+        ],
+        "bbox_size": {
+          "width": 312.68,
+          "height": 207.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\90.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.42,
+          0.0,
+          311.77,
+          207.83
+        ],
+        "bbox_size": {
+          "width": 311.35,
+          "height": 207.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\91.jpg",
+    "image_size": {
+      "width": 315,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.99,
+        "bbox": [
+          0.3,
+          0.06,
+          314.97,
+          205.92
+        ],
+        "bbox_size": {
+          "width": 314.67,
+          "height": 205.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\92.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9883,
+        "bbox": [
+          0.11,
+          0.0,
+          311.97,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.86,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\93.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9858,
+        "bbox": [
+          0.31,
+          0.79,
+          323.97,
+          201.27
+        ],
+        "bbox_size": {
+          "width": 323.66,
+          "height": 200.48
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\94.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9845,
+        "bbox": [
+          0.21,
+          0.0,
+          283.87,
+          228.99
+        ],
+        "bbox_size": {
+          "width": 283.66,
+          "height": 228.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\95.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.988,
+        "bbox": [
+          0.24,
+          0.08,
+          311.8,
+          207.72
+        ],
+        "bbox_size": {
+          "width": 311.56,
+          "height": 207.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\96.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9745,
+        "bbox": [
+          0.0,
+          0.36,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\97.jpg",
+    "image_size": {
+      "width": 275,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9859,
+        "bbox": [
+          0.04,
+          0.0,
+          275.0,
+          237.65
+        ],
+        "bbox_size": {
+          "width": 274.96,
+          "height": 237.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\98.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9843,
+        "bbox": [
+          0.07,
+          0.03,
+          254.97,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\banana\\99.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9744,
+        "bbox": [
+          0.0,
+          0.0,
+          256.97,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.97,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  }
+]

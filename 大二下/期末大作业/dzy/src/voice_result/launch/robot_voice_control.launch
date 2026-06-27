@@ -1,0 +1,25 @@
+<launch>
+    <!-- 语音识别（离线/不崩溃/不依赖API） -->
+    <node name="final_asr_node" 
+          pkg="robot_nlp" 
+          type="final_asr_node.py" 
+          output="screen"/>
+
+    <!-- 意图识别 -->
+    <node name="intent_classifier_node" 
+          pkg="robot_nlp" 
+          type="intent_classifier_node.py" 
+          output="screen"/>
+
+    <!-- 参数解析（支持复合指令） -->
+    <node name="param_parser_node" 
+          pkg="robot_nlp" 
+          type="param_parser_node.py" 
+          output="screen"/>
+
+    <!-- 机器人运动控制 -->
+    <node name="cmd_control_node" 
+          pkg="robot_nlp" 
+          type="cmd_control_node.py" 
+          output="screen"/>
+</launch>

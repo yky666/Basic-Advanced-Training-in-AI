@@ -1,0 +1,26 @@
+<launch>
+    <node pkg="vision_line_follow"
+          type="line_detector_node.py"
+          name="line_detector_node"
+          output="screen" />
+
+    <node pkg="vision_line_follow"
+          type="line_controller_node.py"
+          name="line_controller_node"
+          output="screen">
+        <param name="base_speed" value="0.22"/>
+        <param name="min_speed" value="0.08"/>
+        <param name="kp" value="0.8"/>
+        <param name="max_angular_z" value="0.8"/>
+        <param name="slowdown_gain" value="0.35"/>
+        <param name="turn_sign" value="-1.0"/>
+
+        <param name="lost_timeout" value="0.5"/>
+        <param name="control_rate" value="20.0"/>
+
+        <param name="no_line_frames_limit" value="20"/>
+        <param name="min_follow_time" value="6.0"/>
+        <param name="max_follow_time" value="35.0"/>
+        <param name="done_topic" value="/line_follow/done"/>
+    </node>
+</launch>

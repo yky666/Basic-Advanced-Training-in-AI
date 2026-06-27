@@ -1,0 +1,6290 @@
+[
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0001.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9958,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0002.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9986,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0003.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0004.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9222,
+        "bbox": [
+          0.0,
+          0.0,
+          159.91,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0005.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.994,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.91
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.91
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0006.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9972,
+        "bbox": [
+          0.0,
+          0.0,
+          159.92,
+          159.97
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.97
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0007.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9611,
+        "bbox": [
+          0.0,
+          0.02,
+          160.0,
+          159.79
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.77
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0008.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9812,
+        "bbox": [
+          0.08,
+          0.07,
+          159.3,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.22,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0009.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9976,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0010.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9952,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0011.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9937,
+        "bbox": [
+          0.69,
+          0.08,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.31,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0012.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.0,
+          0.0,
+          159.99,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0013.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9973,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0014.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.8718,
+        "bbox": [
+          0.11,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.89,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0015.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9873,
+        "bbox": [
+          0.05,
+          0.08,
+          159.26,
+          159.97
+        ],
+        "bbox_size": {
+          "width": 159.21,
+          "height": 159.89
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0016.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9413,
+        "bbox": [
+          0.0,
+          0.0,
+          159.35,
+          159.88
+        ],
+        "bbox_size": {
+          "width": 159.35,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0017.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9806,
+        "bbox": [
+          0.0,
+          0.04,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0018.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9833,
+        "bbox": [
+          0.08,
+          0.05,
+          159.4,
+          159.89
+        ],
+        "bbox_size": {
+          "width": 159.32,
+          "height": 159.84
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0019.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9489,
+        "bbox": [
+          0.0,
+          0.04,
+          160.0,
+          159.95
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.91
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0020.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9976,
+        "bbox": [
+          0.0,
+          0.0,
+          159.86,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.86,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0021.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.99,
+        "bbox": [
+          0.01,
+          0.01,
+          160.0,
+          159.88
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0022.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9977,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.88
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0023.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.992,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0024.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9962,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.8
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.8
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0025.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9958,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0026.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9915,
+        "bbox": [
+          0.03,
+          0.0,
+          160.0,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 159.97,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0027.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9883,
+        "bbox": [
+          0.09,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0028.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9884,
+        "bbox": [
+          0.05,
+          0.0,
+          159.09,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 159.04,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0029.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9852,
+        "bbox": [
+          0.04,
+          0.27,
+          158.94,
+          159.78
+        ],
+        "bbox_size": {
+          "width": 158.9,
+          "height": 159.51
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0030.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9939,
+        "bbox": [
+          0.0,
+          0.21,
+          159.58,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.58,
+          "height": 159.79
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0031.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9946,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0032.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9723,
+        "bbox": [
+          0.0,
+          0.03,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.97
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0033.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.0,
+          0.05,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.95
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0034.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9979,
+        "bbox": [
+          0.0,
+          0.04,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0035.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.0,
+          0.0,
+          159.95,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0036.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.994,
+        "bbox": [
+          0.0,
+          0.0,
+          159.44,
+          159.86
+        ],
+        "bbox_size": {
+          "width": 159.44,
+          "height": 159.86
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0037.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9839,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0038.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9537,
+        "bbox": [
+          0.05,
+          0.0,
+          159.41,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.36,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0039.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9887,
+        "bbox": [
+          0.06,
+          0.0,
+          159.37,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 159.31,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0040.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9979,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0041.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0042.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9835,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0043.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9971,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0044.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9975,
+        "bbox": [
+          0.01,
+          0.0,
+          159.96,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0045.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.0,
+          0.0,
+          159.97,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.97,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0046.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9769,
+        "bbox": [
+          0.07,
+          0.16,
+          159.49,
+          159.81
+        ],
+        "bbox_size": {
+          "width": 159.42,
+          "height": 159.65
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0047.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9925,
+        "bbox": [
+          0.0,
+          0.13,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0048.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9951,
+        "bbox": [
+          0.53,
+          0.19,
+          159.94,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.41,
+          "height": 159.81
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0049.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.997,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0050.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.0,
+          0.0,
+          159.87,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.87,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0051.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9917,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0052.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.8884,
+        "bbox": [
+          0.82,
+          0.0,
+          159.99,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 159.17,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0053.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9973,
+        "bbox": [
+          0.17,
+          0.0,
+          159.61,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 159.44,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0054.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9864,
+        "bbox": [
+          0.0,
+          0.03,
+          159.1,
+          159.89
+        ],
+        "bbox_size": {
+          "width": 159.1,
+          "height": 159.86
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0055.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9893,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.76
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.76
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0056.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9886,
+        "bbox": [
+          0.04,
+          0.02,
+          159.28,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.24,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0057.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9975,
+        "bbox": [
+          0.02,
+          0.0,
+          160.0,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0058.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9962,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0059.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9897,
+        "bbox": [
+          0.0,
+          0.0,
+          159.98,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0060.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9946,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.83
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.83
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0061.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.976,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0062.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9795,
+        "bbox": [
+          0.08,
+          0.0,
+          160.0,
+          159.86
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.86
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0063.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9954,
+        "bbox": [
+          0.04,
+          0.0,
+          159.99,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0064.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9903,
+        "bbox": [
+          0.06,
+          0.0,
+          159.01,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 158.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0065.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9899,
+        "bbox": [
+          0.08,
+          0.12,
+          158.98,
+          159.78
+        ],
+        "bbox_size": {
+          "width": 158.9,
+          "height": 159.66
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0066.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.8966,
+        "bbox": [
+          0.0,
+          0.0,
+          159.34,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.34,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0067.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9235,
+        "bbox": [
+          0.0,
+          0.0,
+          159.71,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.71,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0068.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9739,
+        "bbox": [
+          0.0,
+          0.0,
+          159.98,
+          159.69
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 159.69
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0069.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.981,
+        "bbox": [
+          0.01,
+          0.09,
+          159.74,
+          159.91
+        ],
+        "bbox_size": {
+          "width": 159.73,
+          "height": 159.82
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0070.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9638,
+        "bbox": [
+          0.12,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.88,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0071.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.03,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.97,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0072.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9964,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0073.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9847,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0074.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9976,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.96
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0075.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9943,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0076.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.06,
+          0.05,
+          159.95,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.89,
+          "height": 159.95
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0077.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9907,
+        "bbox": [
+          0.0,
+          0.0,
+          159.99,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0078.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9985,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0079.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9946,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0080.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9931,
+        "bbox": [
+          0.1,
+          0.0,
+          159.67,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.57,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0081.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9985,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0082.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9978,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0083.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9942,
+        "bbox": [
+          0.0,
+          0.07,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0084.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.561,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.77
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.77
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "dengziqi",
+        "confidence": 0.4804,
+        "bbox": [
+          0.15,
+          0.04,
+          159.77,
+          159.46
+        ],
+        "bbox_size": {
+          "width": 159.62,
+          "height": 159.42
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0085.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9945,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0086.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9934,
+        "bbox": [
+          0.08,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0087.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9893,
+        "bbox": [
+          0.0,
+          0.12,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0088.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9788,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0089.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9945,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0090.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9967,
+        "bbox": [
+          0.1,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.9,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0091.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9976,
+        "bbox": [
+          0.06,
+          0.32,
+          159.88,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.82,
+          "height": 159.68
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0092.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9822,
+        "bbox": [
+          0.02,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0093.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9928,
+        "bbox": [
+          0.05,
+          0.0,
+          159.1,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.05,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0094.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9973,
+        "bbox": [
+          0.0,
+          0.0,
+          159.87,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.87,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0095.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9851,
+        "bbox": [
+          0.13,
+          0.28,
+          159.73,
+          159.67
+        ],
+        "bbox_size": {
+          "width": 159.6,
+          "height": 159.39
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0096.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9931,
+        "bbox": [
+          0.0,
+          0.0,
+          159.95,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0097.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9921,
+        "bbox": [
+          0.11,
+          0.08,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.89,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0098.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.99,
+        "bbox": [
+          0.0,
+          0.0,
+          159.96,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.96,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0099.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9953,
+        "bbox": [
+          0.06,
+          0.01,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.94,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0100.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9964,
+        "bbox": [
+          0.05,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0101.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9755,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0102.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9944,
+        "bbox": [
+          0.0,
+          0.23,
+          160.0,
+          159.79
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.56
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0103.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.998,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0104.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9985,
+        "bbox": [
+          0.12,
+          0.0,
+          160.0,
+          159.72
+        ],
+        "bbox_size": {
+          "width": 159.88,
+          "height": 159.72
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0105.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.989,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.74
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.74
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0106.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0107.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9876,
+        "bbox": [
+          0.1,
+          0.0,
+          159.13,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.03,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0108.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9976,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0109.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9941,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0110.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9908,
+        "bbox": [
+          0.04,
+          0.05,
+          159.35,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 159.31,
+          "height": 159.89
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0111.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9056,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0112.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9929,
+        "bbox": [
+          0.38,
+          0.0,
+          160.0,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 159.62,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0113.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9959,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0114.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.996,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0115.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.8972,
+        "bbox": [
+          0.13,
+          0.0,
+          159.98,
+          159.78
+        ],
+        "bbox_size": {
+          "width": 159.85,
+          "height": 159.78
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0116.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9854,
+        "bbox": [
+          0.08,
+          0.06,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0117.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9945,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0118.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9924,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.91
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.91
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0119.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9764,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0120.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9905,
+        "bbox": [
+          0.09,
+          0.01,
+          160.0,
+          159.91
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 159.9
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0121.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9957,
+        "bbox": [
+          0.0,
+          0.02,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0122.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.968,
+        "bbox": [
+          0.0,
+          0.04,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0123.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9889,
+        "bbox": [
+          0.0,
+          0.01,
+          160.0,
+          159.3
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.29
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0124.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9946,
+        "bbox": [
+          0.04,
+          0.0,
+          158.89,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 158.85,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0125.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9701,
+        "bbox": [
+          0.04,
+          0.0,
+          160.0,
+          159.85
+        ],
+        "bbox_size": {
+          "width": 159.96,
+          "height": 159.85
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0126.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9875,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0127.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9864,
+        "bbox": [
+          0.1,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.9,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0128.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9968,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0129.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.9
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.9
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0130.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9977,
+        "bbox": [
+          0.02,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0131.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9926,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0132.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9759,
+        "bbox": [
+          0.09,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0133.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.8537,
+        "bbox": [
+          0.0,
+          0.18,
+          159.92,
+          159.5
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.32
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0134.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9657,
+        "bbox": [
+          0.08,
+          0.04,
+          159.49,
+          159.67
+        ],
+        "bbox_size": {
+          "width": 159.41,
+          "height": 159.63
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0135.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9763,
+        "bbox": [
+          0.01,
+          0.03,
+          160.0,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0136.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9804,
+        "bbox": [
+          0.07,
+          0.12,
+          159.49,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 159.42,
+          "height": 159.8
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0137.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9982,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0138.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9955,
+        "bbox": [
+          0.0,
+          0.0,
+          159.98,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0139.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9964,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0140.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9673,
+        "bbox": [
+          0.0,
+          0.0,
+          159.9,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.9,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0141.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9935,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0142.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9529,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0143.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9075,
+        "bbox": [
+          0.2,
+          0.11,
+          159.77,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 159.57,
+          "height": 159.82
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0144.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9941,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0145.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.857,
+        "bbox": [
+          0.16,
+          0.13,
+          159.84,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.68,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0146.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9949,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.86
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.86
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0147.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9754,
+        "bbox": [
+          0.14,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.86,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0148.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9807,
+        "bbox": [
+          0.09,
+          0.0,
+          160.0,
+          159.84
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 159.84
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0149.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9662,
+        "bbox": [
+          0.0,
+          0.23,
+          159.34,
+          159.8
+        ],
+        "bbox_size": {
+          "width": 159.34,
+          "height": 159.57
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0150.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9957,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0151.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9986,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0152.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.995,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0153.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9983,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0154.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9969,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0155.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.997,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0156.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9947,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0157.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9917,
+        "bbox": [
+          0.04,
+          0.0,
+          160.0,
+          159.91
+        ],
+        "bbox_size": {
+          "width": 159.96,
+          "height": 159.91
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0158.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9979,
+        "bbox": [
+          0.06,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.94,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0159.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9957,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0160.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.995,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.87
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0161.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9915,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0162.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9188,
+        "bbox": [
+          0.0,
+          0.0,
+          159.98,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.98,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0163.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9889,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0164.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9581,
+        "bbox": [
+          0.08,
+          0.0,
+          159.5,
+          159.86
+        ],
+        "bbox_size": {
+          "width": 159.42,
+          "height": 159.86
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0165.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9911,
+        "bbox": [
+          0.28,
+          0.0,
+          159.97,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.69,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0166.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9928,
+        "bbox": [
+          0.0,
+          0.0,
+          159.95,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.95,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0167.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9694,
+        "bbox": [
+          0.08,
+          0.04,
+          159.34,
+          159.97
+        ],
+        "bbox_size": {
+          "width": 159.26,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0168.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9967,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0169.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9957,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0170.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9882,
+        "bbox": [
+          0.26,
+          0.0,
+          159.87,
+          159.88
+        ],
+        "bbox_size": {
+          "width": 159.61,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0171.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9735,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0172.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9932,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0173.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.996,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0174.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9909,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0175.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9451,
+        "bbox": [
+          0.09,
+          0.12,
+          159.5,
+          159.9
+        ],
+        "bbox_size": {
+          "width": 159.41,
+          "height": 159.78
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0176.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9853,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0177.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9924,
+        "bbox": [
+          0.06,
+          0.03,
+          159.58,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.52,
+          "height": 159.97
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0178.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9859,
+        "bbox": [
+          0.0,
+          0.0,
+          159.91,
+          159.89
+        ],
+        "bbox_size": {
+          "width": 159.91,
+          "height": 159.89
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0179.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9984,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.98
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0180.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9992,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0181.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9943,
+        "bbox": [
+          0.08,
+          0.12,
+          159.35,
+          159.9
+        ],
+        "bbox_size": {
+          "width": 159.27,
+          "height": 159.78
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0182.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9973,
+        "bbox": [
+          0.0,
+          0.21,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.79
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0183.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9952,
+        "bbox": [
+          0.04,
+          0.0,
+          159.06,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.02,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0184.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9897,
+        "bbox": [
+          0.11,
+          0.0,
+          159.88,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.77,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0185.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.994,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0186.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.99,
+        "bbox": [
+          0.06,
+          0.06,
+          159.4,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.34,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0187.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9952,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0188.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9947,
+        "bbox": [
+          0.08,
+          0.02,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.92,
+          "height": 159.98
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0189.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9877,
+        "bbox": [
+          0.02,
+          0.16,
+          159.46,
+          159.81
+        ],
+        "bbox_size": {
+          "width": 159.44,
+          "height": 159.65
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0190.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.7751,
+        "bbox": [
+          0.0,
+          0.11,
+          159.79,
+          159.96
+        ],
+        "bbox_size": {
+          "width": 159.79,
+          "height": 159.85
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0191.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.991,
+        "bbox": [
+          0.13,
+          0.0,
+          160.0,
+          159.87
+        ],
+        "bbox_size": {
+          "width": 159.87,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0192.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9673,
+        "bbox": [
+          0.08,
+          0.0,
+          159.16,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 159.08,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0193.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9844,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0194.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9794,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0195.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9927,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0196.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9952,
+        "bbox": [
+          0.0,
+          0.0,
+          159.87,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.87,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0197.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9958,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.74
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.74
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0198.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9966,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.99
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0199.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9974,
+        "bbox": [
+          0.01,
+          0.0,
+          160.0,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 159.99,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0200.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9945,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0201.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9971,
+        "bbox": [
+          0.0,
+          0.0,
+          159.66,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.66,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0202.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9902,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.94
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.94
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0203.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9888,
+        "bbox": [
+          0.03,
+          0.0,
+          160.0,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 159.97,
+          "height": 159.93
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0204.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9936,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0205.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9731,
+        "bbox": [
+          0.11,
+          0.12,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.89,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0206.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9808,
+        "bbox": [
+          0.08,
+          0.09,
+          159.25,
+          159.82
+        ],
+        "bbox_size": {
+          "width": 159.17,
+          "height": 159.73
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0207.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9958,
+        "bbox": [
+          0.16,
+          0.0,
+          159.86,
+          159.74
+        ],
+        "bbox_size": {
+          "width": 159.7,
+          "height": 159.74
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0208.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9956,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0209.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9915,
+        "bbox": [
+          0.0,
+          0.12,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0210.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9883,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0211.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.6843,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      },
+      {
+        "class_id": 2,
+        "class_name": "renxianqi",
+        "confidence": 0.3558,
+        "bbox": [
+          0.05,
+          0.0,
+          159.22,
+          159.81
+        ],
+        "bbox_size": {
+          "width": 159.17,
+          "height": 159.81
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0212.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9679,
+        "bbox": [
+          0.03,
+          0.09,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.97,
+          "height": 159.91
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0213.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9991,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0214.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9904,
+        "bbox": [
+          0.07,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.93,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0215.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9947,
+        "bbox": [
+          0.21,
+          0.01,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.79,
+          "height": 159.99
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0216.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9989,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0217.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9972,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0218.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9571,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0219.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9971,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0220.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9763,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0221.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "renxianqi",
+        "confidence": 0.6643,
+        "bbox": [
+          0.08,
+          0.0,
+          159.51,
+          159.96
+        ],
+        "bbox_size": {
+          "width": 159.43,
+          "height": 159.96
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      },
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.5856,
+        "bbox": [
+          0.0,
+          0.13,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.87
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0222.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9894,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0223.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9931,
+        "bbox": [
+          0.0,
+          0.59,
+          160.0,
+          159.8
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.21
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0224.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9871,
+        "bbox": [
+          0.0,
+          0.09,
+          160.0,
+          159.93
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.84
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0225.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9879,
+        "bbox": [
+          0.08,
+          0.2,
+          159.35,
+          159.97
+        ],
+        "bbox_size": {
+          "width": 159.27,
+          "height": 159.77
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0226.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9898,
+        "bbox": [
+          0.0,
+          0.07,
+          159.72,
+          159.87
+        ],
+        "bbox_size": {
+          "width": 159.72,
+          "height": 159.8
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0227.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9991,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 160.0
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0228.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9756,
+        "bbox": [
+          0.13,
+          0.0,
+          159.91,
+          159.85
+        ],
+        "bbox_size": {
+          "width": 159.78,
+          "height": 159.85
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0229.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9327,
+        "bbox": [
+          0.12,
+          0.12,
+          159.51,
+          160.0
+        ],
+        "bbox_size": {
+          "width": 159.39,
+          "height": 159.88
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0230.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9635,
+        "bbox": [
+          0.09,
+          0.05,
+          159.21,
+          159.75
+        ],
+        "bbox_size": {
+          "width": 159.12,
+          "height": 159.7
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "face",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\face\\sabeining\\sabeining_0231.jpg",
+    "image_size": {
+      "width": 160,
+      "height": 160
+    },
+    "objects": [
+      {
+        "class_id": 3,
+        "class_name": "sabeining",
+        "confidence": 0.9895,
+        "bbox": [
+          0.0,
+          0.0,
+          160.0,
+          159.92
+        ],
+        "bbox_size": {
+          "width": 160.0,
+          "height": 159.92
+        },
+        "position": "??????",
+        "description": "??????????????????????"
+      }
+    ]
+  }
+]

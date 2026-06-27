@@ -1,0 +1,27 @@
+﻿# Generated / bulky artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.rar
+*.zip
+*.7z
+*.mp4
+*.avi
+*.mov
+*.pptx
+*.docx
+*.pdf
+
+# Runtime / caches
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+build/
+devel/
+install/
+logs/

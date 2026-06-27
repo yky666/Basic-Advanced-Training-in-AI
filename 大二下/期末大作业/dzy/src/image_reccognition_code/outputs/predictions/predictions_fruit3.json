@@ -1,0 +1,5834 @@
+[
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\0.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\1.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9812,
+        "bbox": [
+          0.16,
+          0.0,
+          312.0,
+          207.51
+        ],
+        "bbox_size": {
+          "width": 311.84,
+          "height": 207.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\10.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\100.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9802,
+        "bbox": [
+          0.0,
+          0.35,
+          312.0,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\101.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9431,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.88
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\102.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9684,
+        "bbox": [
+          0.37,
+          0.0,
+          225.0,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.63,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\103.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9763,
+        "bbox": [
+          0.0,
+          0.0,
+          206.52,
+          311.56
+        ],
+        "bbox_size": {
+          "width": 206.52,
+          "height": 311.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\104.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9306,
+        "bbox": [
+          0.21,
+          1.3,
+          255.0,
+          254.93
+        ],
+        "bbox_size": {
+          "width": 254.79,
+          "height": 253.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\105.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9893,
+        "bbox": [
+          0.38,
+          0.42,
+          311.99,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.61,
+          "height": 207.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\106.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9894,
+        "bbox": [
+          0.41,
+          0.0,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.59,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\107.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\108.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\109.jpg",
+    "image_size": {
+      "width": 221,
+      "height": 295
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9903,
+        "bbox": [
+          0.91,
+          0.01,
+          221.0,
+          295.0
+        ],
+        "bbox_size": {
+          "width": 220.09,
+          "height": 294.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\11.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.975,
+        "bbox": [
+          0.3,
+          0.46,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.7,
+          "height": 220.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\110.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9893,
+        "bbox": [
+          0.38,
+          0.42,
+          311.99,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.61,
+          "height": 207.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\111.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.983,
+        "bbox": [
+          0.34,
+          0.27,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\112.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9783,
+        "bbox": [
+          0.0,
+          0.0,
+          206.41,
+          311.71
+        ],
+        "bbox_size": {
+          "width": 206.41,
+          "height": 311.71
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\113.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\114.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9786,
+        "bbox": [
+          0.03,
+          0.0,
+          312.0,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.97,
+          "height": 207.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\115.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.0,
+          312.93,
+          207.23
+        ],
+        "bbox_size": {
+          "width": 312.93,
+          "height": 207.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\116.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9579,
+        "bbox": [
+          0.04,
+          0.0,
+          284.5,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 284.46,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\117.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9431,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.88
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\118.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.15,
+          0.0,
+          300.82,
+          215.73
+        ],
+        "bbox_size": {
+          "width": 300.67,
+          "height": 215.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\119.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.35,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\12.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 219
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9829,
+        "bbox": [
+          0.23,
+          0.01,
+          296.84,
+          218.3
+        ],
+        "bbox_size": {
+          "width": 296.61,
+          "height": 218.29
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\120.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.938,
+        "bbox": [
+          0.0,
+          0.08,
+          207.74,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 207.74,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\121.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9579,
+        "bbox": [
+          0.04,
+          0.0,
+          284.5,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 284.46,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\122.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9856,
+        "bbox": [
+          0.0,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 340.0,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\123.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9373,
+        "bbox": [
+          0.15,
+          0.27,
+          291.89,
+          220.0
+        ],
+        "bbox_size": {
+          "width": 291.74,
+          "height": 219.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\124.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 192
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9546,
+        "bbox": [
+          0.12,
+          0.47,
+          340.0,
+          192.0
+        ],
+        "bbox_size": {
+          "width": 339.88,
+          "height": 191.53
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\125.jpg",
+    "image_size": {
+      "width": 330,
+      "height": 198
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.802,
+        "bbox": [
+          0.17,
+          0.0,
+          330.0,
+          198.0
+        ],
+        "bbox_size": {
+          "width": 329.83,
+          "height": 198.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\126.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.8662,
+        "bbox": [
+          0.0,
+          0.0,
+          294.67,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.67,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\127.jpg",
+    "image_size": {
+      "width": 322,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9508,
+        "bbox": [
+          0.0,
+          0.15,
+          322.0,
+          202.5
+        ],
+        "bbox_size": {
+          "width": 322.0,
+          "height": 202.35
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\128.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9652,
+        "bbox": [
+          0.0,
+          0.21,
+          313.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 208.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\129.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.894,
+        "bbox": [
+          0.06,
+          0.0,
+          301.91,
+          215.3
+        ],
+        "bbox_size": {
+          "width": 301.85,
+          "height": 215.3
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\13.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9777,
+        "bbox": [
+          0.1,
+          0.51,
+          289.0,
+          224.35
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 223.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\130.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9666,
+        "bbox": [
+          0.5,
+          0.23,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 339.5,
+          "height": 190.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\131.jpg",
+    "image_size": {
+      "width": 400,
+      "height": 300
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.7881,
+        "bbox": [
+          0.32,
+          1.31,
+          398.86,
+          300.0
+        ],
+        "bbox_size": {
+          "width": 398.54,
+          "height": 298.69
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\132.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9936,
+        "bbox": [
+          0.26,
+          0.0,
+          304.0,
+          214.01
+        ],
+        "bbox_size": {
+          "width": 303.74,
+          "height": 214.01
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\133.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9932,
+        "bbox": [
+          0.31,
+          0.0,
+          321.61,
+          201.42
+        ],
+        "bbox_size": {
+          "width": 321.3,
+          "height": 201.42
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\134.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.33,
+          0.0,
+          300.0,
+          215.81
+        ],
+        "bbox_size": {
+          "width": 299.67,
+          "height": 215.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\135.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9699,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.98
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\136.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 219
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9784,
+        "bbox": [
+          0.24,
+          0.0,
+          298.0,
+          217.6
+        ],
+        "bbox_size": {
+          "width": 297.76,
+          "height": 217.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\137.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9758,
+        "bbox": [
+          0.27,
+          0.56,
+          297.0,
+          219.62
+        ],
+        "bbox_size": {
+          "width": 296.73,
+          "height": 219.06
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\138.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 210
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.8825,
+        "bbox": [
+          0.0,
+          0.0,
+          309.0,
+          210.0
+        ],
+        "bbox_size": {
+          "width": 309.0,
+          "height": 210.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\139.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.0,
+          312.93,
+          207.23
+        ],
+        "bbox_size": {
+          "width": 312.93,
+          "height": 207.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\14.jpg",
+    "image_size": {
+      "width": 205,
+      "height": 319
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.971,
+        "bbox": [
+          0.27,
+          0.07,
+          203.96,
+          319.0
+        ],
+        "bbox_size": {
+          "width": 203.69,
+          "height": 318.93
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\140.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9652,
+        "bbox": [
+          0.0,
+          0.0,
+          207.3,
+          311.42
+        ],
+        "bbox_size": {
+          "width": 207.3,
+          "height": 311.42
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\141.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9431,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          254.88
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 254.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\142.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.15,
+          0.0,
+          300.82,
+          215.73
+        ],
+        "bbox_size": {
+          "width": 300.67,
+          "height": 215.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\143.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.3459,
+        "bbox": [
+          0.04,
+          0.87,
+          254.99,
+          254.9
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.03
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\144.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9507,
+        "bbox": [
+          0.15,
+          0.34,
+          312.22,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.07,
+          "height": 208.66
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\145.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9373,
+        "bbox": [
+          0.15,
+          0.27,
+          291.89,
+          220.0
+        ],
+        "bbox_size": {
+          "width": 291.74,
+          "height": 219.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\146.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9563,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\147.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9135,
+        "bbox": [
+          0.0,
+          0.0,
+          206.92,
+          311.92
+        ],
+        "bbox_size": {
+          "width": 206.92,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\148.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 192
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9546,
+        "bbox": [
+          0.12,
+          0.47,
+          340.0,
+          192.0
+        ],
+        "bbox_size": {
+          "width": 339.88,
+          "height": 191.53
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\149.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 218
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9556,
+        "bbox": [
+          0.18,
+          0.04,
+          297.58,
+          216.84
+        ],
+        "bbox_size": {
+          "width": 297.4,
+          "height": 216.8
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\15.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.28,
+          0.25,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.72,
+          "height": 207.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\150.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9838,
+        "bbox": [
+          0.26,
+          0.0,
+          284.0,
+          228.82
+        ],
+        "bbox_size": {
+          "width": 283.74,
+          "height": 228.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\151.jpg",
+    "image_size": {
+      "width": 251,
+      "height": 260
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9889,
+        "bbox": [
+          0.51,
+          0.0,
+          251.0,
+          260.0
+        ],
+        "bbox_size": {
+          "width": 250.49,
+          "height": 260.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\152.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9876,
+        "bbox": [
+          0.26,
+          0.17,
+          312.0,
+          207.95
+        ],
+        "bbox_size": {
+          "width": 311.74,
+          "height": 207.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\153.jpg",
+    "image_size": {
+      "width": 307,
+      "height": 212
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9881,
+        "bbox": [
+          0.25,
+          0.0,
+          307.0,
+          211.99
+        ],
+        "bbox_size": {
+          "width": 306.75,
+          "height": 211.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\154.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\155.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9894,
+        "bbox": [
+          0.41,
+          0.0,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.59,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\156.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.8991,
+        "bbox": [
+          0.22,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.78,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\157.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.0,
+          0.74,
+          312.0,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.06
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\158.jpg",
+    "image_size": {
+      "width": 205,
+      "height": 317
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9659,
+        "bbox": [
+          0.41,
+          0.0,
+          204.42,
+          315.4
+        ],
+        "bbox_size": {
+          "width": 204.01,
+          "height": 315.4
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\159.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.938,
+        "bbox": [
+          0.0,
+          0.08,
+          207.74,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 207.74,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\16.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9869,
+        "bbox": [
+          0.3,
+          0.29,
+          312.0,
+          207.73
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\160.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9135,
+        "bbox": [
+          0.0,
+          0.0,
+          206.92,
+          311.92
+        ],
+        "bbox_size": {
+          "width": 206.92,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\161.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.35,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\162.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9373,
+        "bbox": [
+          0.15,
+          0.27,
+          291.89,
+          220.0
+        ],
+        "bbox_size": {
+          "width": 291.74,
+          "height": 219.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\163.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.3459,
+        "bbox": [
+          0.04,
+          0.87,
+          254.99,
+          254.9
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.03
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\164.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9795,
+        "bbox": [
+          0.17,
+          0.0,
+          301.98,
+          215.87
+        ],
+        "bbox_size": {
+          "width": 301.81,
+          "height": 215.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\165.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9802,
+        "bbox": [
+          0.0,
+          0.35,
+          312.0,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\166.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9855,
+        "bbox": [
+          0.61,
+          0.0,
+          322.52,
+          202.0
+        ],
+        "bbox_size": {
+          "width": 321.91,
+          "height": 202.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\167.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9652,
+        "bbox": [
+          0.0,
+          0.0,
+          207.3,
+          311.42
+        ],
+        "bbox_size": {
+          "width": 207.3,
+          "height": 311.42
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\168.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.894,
+        "bbox": [
+          0.06,
+          0.0,
+          301.91,
+          215.3
+        ],
+        "bbox_size": {
+          "width": 301.85,
+          "height": 215.3
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\169.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.35,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\17.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.974,
+        "bbox": [
+          0.03,
+          0.26,
+          294.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 293.97,
+          "height": 220.74
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\170.jpg",
+    "image_size": {
+      "width": 322,
+      "height": 203
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9508,
+        "bbox": [
+          0.0,
+          0.15,
+          322.0,
+          202.5
+        ],
+        "bbox_size": {
+          "width": 322.0,
+          "height": 202.35
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\171.jpg",
+    "image_size": {
+      "width": 288,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9734,
+        "bbox": [
+          0.03,
+          0.0,
+          287.82,
+          226.0
+        ],
+        "bbox_size": {
+          "width": 287.79,
+          "height": 226.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\172.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9802,
+        "bbox": [
+          0.0,
+          0.35,
+          312.0,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\173.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.8991,
+        "bbox": [
+          0.22,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.78,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\174.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9783,
+        "bbox": [
+          0.0,
+          0.0,
+          206.41,
+          311.71
+        ],
+        "bbox_size": {
+          "width": 206.41,
+          "height": 311.71
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\175.jpg",
+    "image_size": {
+      "width": 225,
+      "height": 289
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9684,
+        "bbox": [
+          0.37,
+          0.0,
+          225.0,
+          289.0
+        ],
+        "bbox_size": {
+          "width": 224.63,
+          "height": 289.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\176.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9306,
+        "bbox": [
+          0.21,
+          1.3,
+          255.0,
+          254.93
+        ],
+        "bbox_size": {
+          "width": 254.79,
+          "height": 253.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\177.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9894,
+        "bbox": [
+          0.41,
+          0.0,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.59,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\178.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9893,
+        "bbox": [
+          0.38,
+          0.42,
+          311.99,
+          207.8
+        ],
+        "bbox_size": {
+          "width": 311.61,
+          "height": 207.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\179.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\18.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.33,
+          0.0,
+          300.0,
+          215.81
+        ],
+        "bbox_size": {
+          "width": 299.67,
+          "height": 215.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\180.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9878,
+        "bbox": [
+          0.08,
+          0.0,
+          314.0,
+          206.07
+        ],
+        "bbox_size": {
+          "width": 313.92,
+          "height": 206.07
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\181.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9557,
+        "bbox": [
+          0.0,
+          0.0,
+          323.0,
+          202.0
+        ],
+        "bbox_size": {
+          "width": 323.0,
+          "height": 202.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\182.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9692,
+        "bbox": [
+          0.9,
+          0.15,
+          311.89,
+          207.33
+        ],
+        "bbox_size": {
+          "width": 310.99,
+          "height": 207.18
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\183.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9856,
+        "bbox": [
+          0.0,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 340.0,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\184.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9564,
+        "bbox": [
+          0.14,
+          0.0,
+          314.0,
+          207.96
+        ],
+        "bbox_size": {
+          "width": 313.86,
+          "height": 207.96
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\185.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9779,
+        "bbox": [
+          0.05,
+          0.01,
+          255.0,
+          254.25
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.24
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\186.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9887,
+        "bbox": [
+          0.29,
+          0.0,
+          312.0,
+          207.97
+        ],
+        "bbox_size": {
+          "width": 311.71,
+          "height": 207.97
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\187.jpg",
+    "image_size": {
+      "width": 288,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9819,
+        "bbox": [
+          0.18,
+          0.14,
+          287.6,
+          225.69
+        ],
+        "bbox_size": {
+          "width": 287.42,
+          "height": 225.55
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\188.jpg",
+    "image_size": {
+      "width": 348,
+      "height": 187
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9741,
+        "bbox": [
+          0.27,
+          0.0,
+          348.0,
+          187.0
+        ],
+        "bbox_size": {
+          "width": 347.73,
+          "height": 187.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\189.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9834,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\19.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9869,
+        "bbox": [
+          0.3,
+          0.29,
+          312.0,
+          207.73
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\190.jpg",
+    "image_size": {
+      "width": 310,
+      "height": 210
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9822,
+        "bbox": [
+          0.27,
+          0.0,
+          310.0,
+          210.0
+        ],
+        "bbox_size": {
+          "width": 309.73,
+          "height": 210.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\191.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9796,
+        "bbox": [
+          0.13,
+          0.1,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.87,
+          "height": 220.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\192.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.968,
+        "bbox": [
+          0.59,
+          0.37,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.41,
+          "height": 207.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\193.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9135,
+        "bbox": [
+          0.0,
+          0.0,
+          206.92,
+          311.92
+        ],
+        "bbox_size": {
+          "width": 206.92,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\194.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9839,
+        "bbox": [
+          0.22,
+          0.47,
+          312.0,
+          207.72
+        ],
+        "bbox_size": {
+          "width": 311.78,
+          "height": 207.25
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\195.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.938,
+        "bbox": [
+          0.0,
+          0.08,
+          207.74,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 207.74,
+          "height": 311.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\196.jpg",
+    "image_size": {
+      "width": 327,
+      "height": 200
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9523,
+        "bbox": [
+          0.22,
+          0.0,
+          327.0,
+          199.66
+        ],
+        "bbox_size": {
+          "width": 326.78,
+          "height": 199.66
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\197.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9856,
+        "bbox": [
+          0.0,
+          0.0,
+          340.0,
+          191.0
+        ],
+        "bbox_size": {
+          "width": 340.0,
+          "height": 191.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\198.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.975,
+        "bbox": [
+          0.3,
+          0.46,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.7,
+          "height": 220.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\199.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\2.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9783,
+        "bbox": [
+          0.0,
+          0.0,
+          206.41,
+          311.71
+        ],
+        "bbox_size": {
+          "width": 206.41,
+          "height": 311.71
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\20.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9777,
+        "bbox": [
+          0.1,
+          0.51,
+          289.0,
+          224.35
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 223.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\200.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9777,
+        "bbox": [
+          0.1,
+          0.51,
+          289.0,
+          224.35
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 223.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\201.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9869,
+        "bbox": [
+          0.3,
+          0.29,
+          312.0,
+          207.73
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\202.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9876,
+        "bbox": [
+          0.26,
+          0.17,
+          312.0,
+          207.95
+        ],
+        "bbox_size": {
+          "width": 311.74,
+          "height": 207.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\203.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\204.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9563,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\205.jpg",
+    "image_size": {
+      "width": 400,
+      "height": 300
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.7881,
+        "bbox": [
+          0.32,
+          1.31,
+          398.86,
+          300.0
+        ],
+        "bbox_size": {
+          "width": 398.54,
+          "height": 298.69
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\206.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9778,
+        "bbox": [
+          0.03,
+          0.63,
+          312.0,
+          207.67
+        ],
+        "bbox_size": {
+          "width": 311.97,
+          "height": 207.04
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\207.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9265,
+        "bbox": [
+          0.14,
+          0.33,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.86,
+          "height": 220.67
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\208.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9765,
+        "bbox": [
+          0.2,
+          0.0,
+          314.0,
+          206.74
+        ],
+        "bbox_size": {
+          "width": 313.8,
+          "height": 206.74
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\209.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.35,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\21.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 229
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9798,
+        "bbox": [
+          0.0,
+          0.21,
+          284.0,
+          228.04
+        ],
+        "bbox_size": {
+          "width": 284.0,
+          "height": 227.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\210.jpg",
+    "image_size": {
+      "width": 366,
+      "height": 178
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9536,
+        "bbox": [
+          0.01,
+          0.4,
+          365.92,
+          178.0
+        ],
+        "bbox_size": {
+          "width": 365.91,
+          "height": 177.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\211.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9802,
+        "bbox": [
+          0.0,
+          0.35,
+          312.0,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\212.jpg",
+    "image_size": {
+      "width": 341,
+      "height": 192
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9694,
+        "bbox": [
+          0.0,
+          0.0,
+          341.0,
+          191.77
+        ],
+        "bbox_size": {
+          "width": 341.0,
+          "height": 191.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\213.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9652,
+        "bbox": [
+          0.0,
+          0.21,
+          313.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 208.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\214.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.3459,
+        "bbox": [
+          0.04,
+          0.87,
+          254.99,
+          254.9
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.03
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\215.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9601,
+        "bbox": [
+          0.34,
+          0.0,
+          301.0,
+          215.93
+        ],
+        "bbox_size": {
+          "width": 300.66,
+          "height": 215.93
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\22.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9936,
+        "bbox": [
+          0.26,
+          0.0,
+          304.0,
+          214.01
+        ],
+        "bbox_size": {
+          "width": 303.74,
+          "height": 214.01
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\23.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9932,
+        "bbox": [
+          0.31,
+          0.0,
+          321.61,
+          201.42
+        ],
+        "bbox_size": {
+          "width": 321.3,
+          "height": 201.42
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\24.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9834,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\25.jpg",
+    "image_size": {
+      "width": 348,
+      "height": 187
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9741,
+        "bbox": [
+          0.27,
+          0.0,
+          348.0,
+          187.0
+        ],
+        "bbox_size": {
+          "width": 347.73,
+          "height": 187.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\26.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9758,
+        "bbox": [
+          0.27,
+          0.56,
+          297.0,
+          219.62
+        ],
+        "bbox_size": {
+          "width": 296.73,
+          "height": 219.06
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\27.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9476,
+        "bbox": [
+          0.15,
+          0.68,
+          255.0,
+          254.63
+        ],
+        "bbox_size": {
+          "width": 254.85,
+          "height": 253.95
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\28.jpg",
+    "image_size": {
+      "width": 288,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9819,
+        "bbox": [
+          0.18,
+          0.14,
+          287.6,
+          225.69
+        ],
+        "bbox_size": {
+          "width": 287.42,
+          "height": 225.55
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\29.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9796,
+        "bbox": [
+          0.13,
+          0.1,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.87,
+          "height": 220.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\3.jpg",
+    "image_size": {
+      "width": 221,
+      "height": 295
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9903,
+        "bbox": [
+          0.91,
+          0.01,
+          221.0,
+          295.0
+        ],
+        "bbox_size": {
+          "width": 220.09,
+          "height": 294.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\30.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9834,
+        "bbox": [
+          0.21,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.79,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\31.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9758,
+        "bbox": [
+          0.27,
+          0.56,
+          297.0,
+          219.62
+        ],
+        "bbox_size": {
+          "width": 296.73,
+          "height": 219.06
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\32.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 219
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9784,
+        "bbox": [
+          0.24,
+          0.0,
+          298.0,
+          217.6
+        ],
+        "bbox_size": {
+          "width": 297.76,
+          "height": 217.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\33.jpg",
+    "image_size": {
+      "width": 288,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9819,
+        "bbox": [
+          0.18,
+          0.14,
+          287.6,
+          225.69
+        ],
+        "bbox_size": {
+          "width": 287.42,
+          "height": 225.55
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\34.jpg",
+    "image_size": {
+      "width": 348,
+      "height": 187
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9741,
+        "bbox": [
+          0.27,
+          0.0,
+          348.0,
+          187.0
+        ],
+        "bbox_size": {
+          "width": 347.73,
+          "height": 187.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\35.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 205
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9852,
+        "bbox": [
+          0.2,
+          0.0,
+          316.99,
+          204.89
+        ],
+        "bbox_size": {
+          "width": 316.79,
+          "height": 204.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\36.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\37.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.983,
+        "bbox": [
+          0.34,
+          0.27,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\38.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\39.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9876,
+        "bbox": [
+          0.26,
+          0.17,
+          312.0,
+          207.95
+        ],
+        "bbox_size": {
+          "width": 311.74,
+          "height": 207.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\4.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\40.jpg",
+    "image_size": {
+      "width": 307,
+      "height": 212
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9881,
+        "bbox": [
+          0.25,
+          0.0,
+          307.0,
+          211.99
+        ],
+        "bbox_size": {
+          "width": 306.75,
+          "height": 211.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\41.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9793,
+        "bbox": [
+          0.0,
+          0.0,
+          206.67,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 206.67,
+          "height": 312.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\42.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9777,
+        "bbox": [
+          0.1,
+          0.51,
+          289.0,
+          224.35
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 223.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\43.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9793,
+        "bbox": [
+          0.0,
+          0.0,
+          206.67,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 206.67,
+          "height": 312.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\44.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.33,
+          0.0,
+          300.0,
+          215.81
+        ],
+        "bbox_size": {
+          "width": 299.67,
+          "height": 215.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\45.jpg",
+    "image_size": {
+      "width": 205,
+      "height": 319
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.971,
+        "bbox": [
+          0.27,
+          0.07,
+          203.96,
+          319.0
+        ],
+        "bbox_size": {
+          "width": 203.69,
+          "height": 318.93
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\46.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\47.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.975,
+        "bbox": [
+          0.3,
+          0.46,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.7,
+          "height": 220.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\48.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\49.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\5.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\50.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.983,
+        "bbox": [
+          0.34,
+          0.27,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\51.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\52.jpg",
+    "image_size": {
+      "width": 237,
+      "height": 275
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9829,
+        "bbox": [
+          0.0,
+          0.0,
+          236.86,
+          274.79
+        ],
+        "bbox_size": {
+          "width": 236.86,
+          "height": 274.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\53.jpg",
+    "image_size": {
+      "width": 249,
+      "height": 262
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9893,
+        "bbox": [
+          0.18,
+          0.0,
+          249.0,
+          262.0
+        ],
+        "bbox_size": {
+          "width": 248.82,
+          "height": 262.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\54.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9745,
+        "bbox": [
+          0.24,
+          0.28,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.76,
+          "height": 220.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\55.jpg",
+    "image_size": {
+      "width": 304,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9936,
+        "bbox": [
+          0.26,
+          0.0,
+          304.0,
+          214.01
+        ],
+        "bbox_size": {
+          "width": 303.74,
+          "height": 214.01
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\56.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.993,
+        "bbox": [
+          0.45,
+          0.11,
+          312.0,
+          207.95
+        ],
+        "bbox_size": {
+          "width": 311.55,
+          "height": 207.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\57.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 219
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9784,
+        "bbox": [
+          0.24,
+          0.0,
+          298.0,
+          217.6
+        ],
+        "bbox_size": {
+          "width": 297.76,
+          "height": 217.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\58.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9758,
+        "bbox": [
+          0.27,
+          0.56,
+          297.0,
+          219.62
+        ],
+        "bbox_size": {
+          "width": 296.73,
+          "height": 219.06
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\59.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9932,
+        "bbox": [
+          0.31,
+          0.0,
+          321.61,
+          201.42
+        ],
+        "bbox_size": {
+          "width": 321.3,
+          "height": 201.42
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\6.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9683,
+        "bbox": [
+          0.06,
+          0.57,
+          254.94,
+          254.85
+        ],
+        "bbox_size": {
+          "width": 254.88,
+          "height": 254.28
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\60.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\61.jpg",
+    "image_size": {
+      "width": 251,
+      "height": 260
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9889,
+        "bbox": [
+          0.51,
+          0.0,
+          251.0,
+          260.0
+        ],
+        "bbox_size": {
+          "width": 250.49,
+          "height": 260.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\62.jpg",
+    "image_size": {
+      "width": 307,
+      "height": 212
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9881,
+        "bbox": [
+          0.25,
+          0.0,
+          307.0,
+          211.99
+        ],
+        "bbox_size": {
+          "width": 306.75,
+          "height": 211.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\63.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9793,
+        "bbox": [
+          0.0,
+          0.0,
+          206.67,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 206.67,
+          "height": 312.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\64.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.975,
+        "bbox": [
+          0.3,
+          0.46,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.7,
+          "height": 220.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\65.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9838,
+        "bbox": [
+          0.26,
+          0.0,
+          284.0,
+          228.82
+        ],
+        "bbox_size": {
+          "width": 283.74,
+          "height": 228.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\66.jpg",
+    "image_size": {
+      "width": 251,
+      "height": 260
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9889,
+        "bbox": [
+          0.51,
+          0.0,
+          251.0,
+          260.0
+        ],
+        "bbox_size": {
+          "width": 250.49,
+          "height": 260.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\67.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.974,
+        "bbox": [
+          0.03,
+          0.26,
+          294.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 293.97,
+          "height": 220.74
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\68.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9867,
+        "bbox": [
+          0.0,
+          0.2,
+          288.75,
+          225.44
+        ],
+        "bbox_size": {
+          "width": 288.75,
+          "height": 225.24
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\69.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\7.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\70.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.983,
+        "bbox": [
+          0.34,
+          0.27,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\71.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.33,
+          0.0,
+          300.0,
+          215.81
+        ],
+        "bbox_size": {
+          "width": 299.67,
+          "height": 215.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\72.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9894,
+        "bbox": [
+          0.28,
+          0.38,
+          313.0,
+          207.82
+        ],
+        "bbox_size": {
+          "width": 312.72,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\73.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9869,
+        "bbox": [
+          0.3,
+          0.29,
+          312.0,
+          207.73
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\74.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\75.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9777,
+        "bbox": [
+          0.1,
+          0.51,
+          289.0,
+          224.35
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 223.84
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\76.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\77.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\78.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\79.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.983,
+        "bbox": [
+          0.34,
+          0.27,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.66,
+          "height": 207.73
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\8.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.986,
+        "bbox": [
+          0.25,
+          0.33,
+          282.0,
+          231.79
+        ],
+        "bbox_size": {
+          "width": 281.75,
+          "height": 231.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\80.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\81.jpg",
+    "image_size": {
+      "width": 251,
+      "height": 260
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9889,
+        "bbox": [
+          0.51,
+          0.0,
+          251.0,
+          260.0
+        ],
+        "bbox_size": {
+          "width": 250.49,
+          "height": 260.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\82.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9812,
+        "bbox": [
+          0.16,
+          0.0,
+          312.0,
+          207.51
+        ],
+        "bbox_size": {
+          "width": 311.84,
+          "height": 207.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\83.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.986,
+        "bbox": [
+          0.25,
+          0.33,
+          282.0,
+          231.79
+        ],
+        "bbox_size": {
+          "width": 281.75,
+          "height": 231.46
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\84.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9772,
+        "bbox": [
+          0.42,
+          0.14,
+          312.8,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.38,
+          "height": 208.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\85.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9894,
+        "bbox": [
+          0.41,
+          0.0,
+          312.0,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 311.59,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\86.jpg",
+    "image_size": {
+      "width": 307,
+      "height": 212
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9881,
+        "bbox": [
+          0.25,
+          0.0,
+          307.0,
+          211.99
+        ],
+        "bbox_size": {
+          "width": 306.75,
+          "height": 211.99
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\87.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9736,
+        "bbox": [
+          0.25,
+          0.4,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.75,
+          "height": 220.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\88.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 230
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9838,
+        "bbox": [
+          0.26,
+          0.0,
+          284.0,
+          228.82
+        ],
+        "bbox_size": {
+          "width": 283.74,
+          "height": 228.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\89.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9306,
+        "bbox": [
+          0.21,
+          1.3,
+          255.0,
+          254.93
+        ],
+        "bbox_size": {
+          "width": 254.79,
+          "height": 253.63
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\9.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9793,
+        "bbox": [
+          0.0,
+          0.0,
+          206.67,
+          312.0
+        ],
+        "bbox_size": {
+          "width": 206.67,
+          "height": 312.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\90.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.974,
+        "bbox": [
+          0.03,
+          0.26,
+          294.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 293.97,
+          "height": 220.74
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\91.jpg",
+    "image_size": {
+      "width": 205,
+      "height": 319
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.971,
+        "bbox": [
+          0.27,
+          0.07,
+          203.96,
+          319.0
+        ],
+        "bbox_size": {
+          "width": 203.69,
+          "height": 318.93
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\92.jpg",
+    "image_size": {
+      "width": 284,
+      "height": 229
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9798,
+        "bbox": [
+          0.0,
+          0.21,
+          284.0,
+          228.04
+        ],
+        "bbox_size": {
+          "width": 284.0,
+          "height": 227.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\93.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 249
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.984,
+        "bbox": [
+          0.0,
+          0.0,
+          262.0,
+          247.75
+        ],
+        "bbox_size": {
+          "width": 262.0,
+          "height": 247.75
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\94.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.988,
+        "bbox": [
+          0.33,
+          0.0,
+          300.0,
+          215.81
+        ],
+        "bbox_size": {
+          "width": 299.67,
+          "height": 215.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\95.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9869,
+        "bbox": [
+          0.3,
+          0.29,
+          312.0,
+          207.73
+        ],
+        "bbox_size": {
+          "width": 311.7,
+          "height": 207.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\96.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.8662,
+        "bbox": [
+          0.0,
+          0.0,
+          294.67,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.67,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\97.jpg",
+    "image_size": {
+      "width": 205,
+      "height": 317
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9659,
+        "bbox": [
+          0.41,
+          0.0,
+          204.42,
+          315.4
+        ],
+        "bbox_size": {
+          "width": 204.01,
+          "height": 315.4
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\98.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.9732,
+        "bbox": [
+          0.35,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.65,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\grape\\99.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.3459,
+        "bbox": [
+          0.04,
+          0.87,
+          254.99,
+          254.9
+        ],
+        "bbox_size": {
+          "width": 254.95,
+          "height": 254.03
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  }
+]

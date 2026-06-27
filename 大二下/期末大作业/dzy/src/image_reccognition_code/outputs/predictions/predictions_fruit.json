@@ -1,0 +1,7863 @@
+[
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\0.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\1.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\10.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\100.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\101.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9847,
+        "bbox": [
+          0.36,
+          0.0,
+          313.59,
+          208.0
+        ],
+        "bbox_size": {
+          "width": 313.23,
+          "height": 208.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\102.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\103.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.0,
+          312.75,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.75,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\104.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9877,
+        "bbox": [
+          0.0,
+          0.0,
+          206.95,
+          310.68
+        ],
+        "bbox_size": {
+          "width": 206.95,
+          "height": 310.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\105.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9847,
+        "bbox": [
+          0.24,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\106.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.32,
+          0.0,
+          312.67,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.35,
+          "height": 207.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\107.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\108.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9837,
+        "bbox": [
+          0.0,
+          0.0,
+          207.88,
+          310.44
+        ],
+        "bbox_size": {
+          "width": 207.88,
+          "height": 310.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\109.jpg",
+    "image_size": {
+      "width": 311,
+      "height": 210
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9818,
+        "bbox": [
+          0.16,
+          0.0,
+          311.0,
+          210.0
+        ],
+        "bbox_size": {
+          "width": 310.84,
+          "height": 210.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\11.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9874,
+        "bbox": [
+          0.0,
+          0.0,
+          206.99,
+          310.6
+        ],
+        "bbox_size": {
+          "width": 206.99,
+          "height": 310.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\110.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.3,
+          254.82,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\111.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\112.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.8,
+          0.25,
+          323.71,
+          201.58
+        ],
+        "bbox_size": {
+          "width": 322.91,
+          "height": 201.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\113.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9546,
+        "bbox": [
+          0.29,
+          0.63,
+          254.72,
+          254.35
+        ],
+        "bbox_size": {
+          "width": 254.43,
+          "height": 253.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\114.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.14,
+          0.0,
+          311.91,
+          207.17
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 207.17
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\115.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\116.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\117.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9874,
+        "bbox": [
+          0.0,
+          0.0,
+          206.99,
+          310.6
+        ],
+        "bbox_size": {
+          "width": 206.99,
+          "height": 310.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\118.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9909,
+        "bbox": [
+          0.21,
+          0.67,
+          288.67,
+          224.72
+        ],
+        "bbox_size": {
+          "width": 288.46,
+          "height": 224.05
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\119.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9852,
+        "bbox": [
+          0.0,
+          0.0,
+          206.62,
+          310.82
+        ],
+        "bbox_size": {
+          "width": 206.62,
+          "height": 310.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\12.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.34,
+          0.91,
+          322.79,
+          201.47
+        ],
+        "bbox_size": {
+          "width": 322.45,
+          "height": 200.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\120.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9522,
+        "bbox": [
+          0.09,
+          0.0,
+          294.54,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.45,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\121.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9741,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          208.82
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 208.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\122.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9684,
+        "bbox": [
+          0.17,
+          0.0,
+          308.82,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 308.65,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\123.jpg",
+    "image_size": {
+      "width": 322,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9698,
+        "bbox": [
+          0.0,
+          0.0,
+          322.0,
+          201.76
+        ],
+        "bbox_size": {
+          "width": 322.0,
+          "height": 201.76
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\124.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9669,
+        "bbox": [
+          0.21,
+          0.3,
+          339.65,
+          190.49
+        ],
+        "bbox_size": {
+          "width": 339.44,
+          "height": 190.19
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\125.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.32,
+          0.0,
+          257.0,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.68,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\126.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9852,
+        "bbox": [
+          0.0,
+          0.0,
+          206.62,
+          310.82
+        ],
+        "bbox_size": {
+          "width": 206.62,
+          "height": 310.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\127.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.32,
+          0.0,
+          312.67,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.35,
+          "height": 207.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\128.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.17,
+          0.0,
+          312.0,
+          207.98
+        ],
+        "bbox_size": {
+          "width": 311.83,
+          "height": 207.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\129.jpg",
+    "image_size": {
+      "width": 287,
+      "height": 228
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9765,
+        "bbox": [
+          0.25,
+          0.0,
+          286.86,
+          227.2
+        ],
+        "bbox_size": {
+          "width": 286.61,
+          "height": 227.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\13.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9909,
+        "bbox": [
+          0.21,
+          0.67,
+          288.67,
+          224.72
+        ],
+        "bbox_size": {
+          "width": 288.46,
+          "height": 224.05
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\130.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\131.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9624,
+        "bbox": [
+          0.0,
+          0.73,
+          254.9,
+          254.96
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\132.jpg",
+    "image_size": {
+      "width": 325,
+      "height": 200
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9419,
+        "bbox": [
+          0.07,
+          0.0,
+          325.0,
+          200.0
+        ],
+        "bbox_size": {
+          "width": 324.93,
+          "height": 200.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\133.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\134.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\135.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.35,
+          0.0,
+          300.8,
+          215.72
+        ],
+        "bbox_size": {
+          "width": 300.45,
+          "height": 215.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\136.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9884,
+        "bbox": [
+          0.36,
+          0.0,
+          316.88,
+          205.1
+        ],
+        "bbox_size": {
+          "width": 316.52,
+          "height": 205.1
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\137.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.99,
+        "bbox": [
+          0.34,
+          0.0,
+          296.97,
+          219.33
+        ],
+        "bbox_size": {
+          "width": 296.63,
+          "height": 219.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\138.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9847,
+        "bbox": [
+          0.24,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\139.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9877,
+        "bbox": [
+          0.0,
+          0.0,
+          206.95,
+          310.68
+        ],
+        "bbox_size": {
+          "width": 206.95,
+          "height": 310.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\14.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9874,
+        "bbox": [
+          0.0,
+          0.0,
+          206.99,
+          310.6
+        ],
+        "bbox_size": {
+          "width": 206.99,
+          "height": 310.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\140.jpg",
+    "image_size": {
+      "width": 228,
+      "height": 285
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9883,
+        "bbox": [
+          0.45,
+          0.0,
+          227.04,
+          284.61
+        ],
+        "bbox_size": {
+          "width": 226.59,
+          "height": 284.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\141.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\142.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\143.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.32,
+          0.0,
+          312.67,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.35,
+          "height": 207.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\144.jpg",
+    "image_size": {
+      "width": 296,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9873,
+        "bbox": [
+          0.26,
+          0.0,
+          295.89,
+          220.65
+        ],
+        "bbox_size": {
+          "width": 295.63,
+          "height": 220.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\145.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\146.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\147.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9668,
+        "bbox": [
+          0.2,
+          0.0,
+          293.0,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.8,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\148.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.0,
+          312.0,
+          207.89
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\149.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9849,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.33
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\15.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.99,
+        "bbox": [
+          0.34,
+          0.0,
+          296.97,
+          219.33
+        ],
+        "bbox_size": {
+          "width": 296.63,
+          "height": 219.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\150.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\151.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9624,
+        "bbox": [
+          0.0,
+          0.73,
+          254.9,
+          254.96
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\152.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\153.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.0,
+          0.0,
+          301.87,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.87,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\154.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\155.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9632,
+        "bbox": [
+          0.14,
+          0.0,
+          308.97,
+          210.13
+        ],
+        "bbox_size": {
+          "width": 308.83,
+          "height": 210.13
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\156.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9632,
+        "bbox": [
+          0.14,
+          0.0,
+          308.97,
+          210.13
+        ],
+        "bbox_size": {
+          "width": 308.83,
+          "height": 210.13
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\157.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9846,
+        "bbox": [
+          0.15,
+          0.5,
+          323.79,
+          200.54
+        ],
+        "bbox_size": {
+          "width": 323.64,
+          "height": 200.04
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\158.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\159.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\16.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9838,
+        "bbox": [
+          0.0,
+          0.0,
+          206.49,
+          311.43
+        ],
+        "bbox_size": {
+          "width": 206.49,
+          "height": 311.43
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\160.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\161.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\162.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9858,
+        "bbox": [
+          0.24,
+          0.0,
+          313.0,
+          208.92
+        ],
+        "bbox_size": {
+          "width": 312.76,
+          "height": 208.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\163.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9853,
+        "bbox": [
+          0.26,
+          0.16,
+          312.95,
+          208.75
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 208.59
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\164.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9808,
+        "bbox": [
+          0.27,
+          0.0,
+          312.0,
+          207.31
+        ],
+        "bbox_size": {
+          "width": 311.73,
+          "height": 207.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\165.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.7166,
+        "bbox": [
+          0.0,
+          0.0,
+          314.0,
+          206.56
+        ],
+        "bbox_size": {
+          "width": 314.0,
+          "height": 206.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\166.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9593,
+        "bbox": [
+          0.0,
+          0.0,
+          300.85,
+          215.92
+        ],
+        "bbox_size": {
+          "width": 300.85,
+          "height": 215.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\167.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9793,
+        "bbox": [
+          0.28,
+          0.0,
+          312.0,
+          206.88
+        ],
+        "bbox_size": {
+          "width": 311.72,
+          "height": 206.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\168.jpg",
+    "image_size": {
+      "width": 330,
+      "height": 198
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.13,
+          0.0,
+          329.99,
+          198.0
+        ],
+        "bbox_size": {
+          "width": 329.86,
+          "height": 198.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\169.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.32,
+          0.0,
+          257.0,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.68,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\17.jpg",
+    "image_size": {
+      "width": 274,
+      "height": 238
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9871,
+        "bbox": [
+          0.0,
+          0.0,
+          273.76,
+          237.71
+        ],
+        "bbox_size": {
+          "width": 273.76,
+          "height": 237.71
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\170.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9788,
+        "bbox": [
+          0.27,
+          0.0,
+          313.0,
+          208.95
+        ],
+        "bbox_size": {
+          "width": 312.73,
+          "height": 208.95
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\171.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.22,
+          0.56,
+          305.0,
+          214.0
+        ],
+        "bbox_size": {
+          "width": 304.78,
+          "height": 213.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\172.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9556,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\173.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9871,
+        "bbox": [
+          0.06,
+          0.29,
+          288.96,
+          224.8
+        ],
+        "bbox_size": {
+          "width": 288.9,
+          "height": 224.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\174.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.3,
+          254.82,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\175.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\176.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9885,
+        "bbox": [
+          0.21,
+          0.04,
+          254.94,
+          254.83
+        ],
+        "bbox_size": {
+          "width": 254.73,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\177.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9841,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.65
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\178.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.99,
+        "bbox": [
+          0.34,
+          0.0,
+          296.97,
+          219.33
+        ],
+        "bbox_size": {
+          "width": 296.63,
+          "height": 219.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\179.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.886,
+        "bbox": [
+          0.36,
+          0.0,
+          311.98,
+          207.65
+        ],
+        "bbox_size": {
+          "width": 311.62,
+          "height": 207.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.6118,
+        "bbox": [
+          0.83,
+          0.29,
+          311.87,
+          206.58
+        ],
+        "bbox_size": {
+          "width": 311.04,
+          "height": 206.29
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\18.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\180.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\181.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9632,
+        "bbox": [
+          0.14,
+          0.0,
+          308.97,
+          210.13
+        ],
+        "bbox_size": {
+          "width": 308.83,
+          "height": 210.13
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\182.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.17,
+          0.0,
+          312.0,
+          207.98
+        ],
+        "bbox_size": {
+          "width": 311.83,
+          "height": 207.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\183.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9624,
+        "bbox": [
+          0.0,
+          0.73,
+          254.9,
+          254.96
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\184.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.0,
+          312.75,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.75,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\185.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\186.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9808,
+        "bbox": [
+          0.27,
+          0.0,
+          312.0,
+          207.31
+        ],
+        "bbox_size": {
+          "width": 311.73,
+          "height": 207.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\187.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9703,
+        "bbox": [
+          0.22,
+          0.0,
+          311.87,
+          207.78
+        ],
+        "bbox_size": {
+          "width": 311.65,
+          "height": 207.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\188.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9669,
+        "bbox": [
+          0.21,
+          0.3,
+          339.65,
+          190.49
+        ],
+        "bbox_size": {
+          "width": 339.44,
+          "height": 190.19
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\189.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9858,
+        "bbox": [
+          0.24,
+          0.0,
+          313.0,
+          208.92
+        ],
+        "bbox_size": {
+          "width": 312.76,
+          "height": 208.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\19.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9852,
+        "bbox": [
+          0.0,
+          0.0,
+          206.62,
+          310.82
+        ],
+        "bbox_size": {
+          "width": 206.62,
+          "height": 310.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\190.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9793,
+        "bbox": [
+          0.28,
+          0.0,
+          312.0,
+          206.88
+        ],
+        "bbox_size": {
+          "width": 311.72,
+          "height": 206.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\191.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9741,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          208.82
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 208.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\192.jpg",
+    "image_size": {
+      "width": 297,
+      "height": 220
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.99,
+        "bbox": [
+          0.34,
+          0.0,
+          296.97,
+          219.33
+        ],
+        "bbox_size": {
+          "width": 296.63,
+          "height": 219.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\193.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.35,
+          0.0,
+          300.8,
+          215.72
+        ],
+        "bbox_size": {
+          "width": 300.45,
+          "height": 215.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\194.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\195.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.3,
+          254.82,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\196.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\197.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\198.jpg",
+    "image_size": {
+      "width": 248,
+      "height": 263
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.994,
+        "bbox": [
+          0.35,
+          0.0,
+          247.49,
+          263.0
+        ],
+        "bbox_size": {
+          "width": 247.14,
+          "height": 263.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\199.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.987,
+        "bbox": [
+          0.16,
+          0.0,
+          294.87,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.71,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\2.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\20.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9838,
+        "bbox": [
+          0.0,
+          0.0,
+          206.49,
+          311.43
+        ],
+        "bbox_size": {
+          "width": 206.49,
+          "height": 311.43
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\200.jpg",
+    "image_size": {
+      "width": 258,
+      "height": 252
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9782,
+        "bbox": [
+          0.0,
+          0.0,
+          258.0,
+          252.0
+        ],
+        "bbox_size": {
+          "width": 258.0,
+          "height": 252.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\201.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9849,
+        "bbox": [
+          0.09,
+          0.0,
+          300.87,
+          216.37
+        ],
+        "bbox_size": {
+          "width": 300.78,
+          "height": 216.37
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\202.jpg",
+    "image_size": {
+      "width": 257,
+      "height": 253
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.32,
+          0.0,
+          257.0,
+          253.0
+        ],
+        "bbox_size": {
+          "width": 256.68,
+          "height": 253.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\203.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.22,
+          0.56,
+          305.0,
+          214.0
+        ],
+        "bbox_size": {
+          "width": 304.78,
+          "height": 213.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\204.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9805,
+        "bbox": [
+          0.02,
+          0.0,
+          302.57,
+          214.96
+        ],
+        "bbox_size": {
+          "width": 302.55,
+          "height": 214.96
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\205.jpg",
+    "image_size": {
+      "width": 306,
+      "height": 212
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.7406,
+        "bbox": [
+          0.0,
+          0.0,
+          306.0,
+          211.96
+        ],
+        "bbox_size": {
+          "width": 306.0,
+          "height": 211.96
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\206.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9684,
+        "bbox": [
+          0.17,
+          0.0,
+          308.82,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 308.65,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\207.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8178,
+        "bbox": [
+          0.03,
+          0.0,
+          294.83,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.8,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\208.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9522,
+        "bbox": [
+          0.09,
+          0.0,
+          294.54,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.45,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\209.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9712,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\21.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\210.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\211.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.19,
+          304.73,
+          213.57
+        ],
+        "bbox_size": {
+          "width": 304.73,
+          "height": 213.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\212.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.0,
+          312.0,
+          207.89
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\213.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\214.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9871,
+        "bbox": [
+          0.19,
+          0.0,
+          294.88,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.69,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\215.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 218
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.988,
+        "bbox": [
+          0.23,
+          0.0,
+          298.0,
+          216.2
+        ],
+        "bbox_size": {
+          "width": 297.77,
+          "height": 216.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\216.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\217.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9846,
+        "bbox": [
+          0.15,
+          0.5,
+          323.79,
+          200.54
+        ],
+        "bbox_size": {
+          "width": 323.64,
+          "height": 200.04
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\218.jpg",
+    "image_size": {
+      "width": 287,
+      "height": 228
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9765,
+        "bbox": [
+          0.25,
+          0.0,
+          286.86,
+          227.2
+        ],
+        "bbox_size": {
+          "width": 286.61,
+          "height": 227.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\219.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.17,
+          0.0,
+          312.0,
+          207.98
+        ],
+        "bbox_size": {
+          "width": 311.83,
+          "height": 207.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\22.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9885,
+        "bbox": [
+          0.21,
+          0.04,
+          254.94,
+          254.83
+        ],
+        "bbox_size": {
+          "width": 254.73,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\220.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\221.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9624,
+        "bbox": [
+          0.0,
+          0.73,
+          254.9,
+          254.96
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.23
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\222.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\223.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.14,
+          0.0,
+          311.91,
+          207.17
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 207.17
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\224.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\225.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\226.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.17,
+          0.0,
+          312.0,
+          207.98
+        ],
+        "bbox_size": {
+          "width": 311.83,
+          "height": 207.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\227.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9846,
+        "bbox": [
+          0.15,
+          0.5,
+          323.79,
+          200.54
+        ],
+        "bbox_size": {
+          "width": 323.64,
+          "height": 200.04
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\228.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9793,
+        "bbox": [
+          0.28,
+          0.0,
+          312.0,
+          206.88
+        ],
+        "bbox_size": {
+          "width": 311.72,
+          "height": 206.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\229.jpg",
+    "image_size": {
+      "width": 316,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9842,
+        "bbox": [
+          0.03,
+          0.0,
+          316.0,
+          205.78
+        ],
+        "bbox_size": {
+          "width": 315.97,
+          "height": 205.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\23.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.14,
+          0.0,
+          311.91,
+          207.17
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 207.17
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\230.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9853,
+        "bbox": [
+          0.26,
+          0.16,
+          312.95,
+          208.75
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 208.59
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\231.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.4385,
+        "bbox": [
+          0.05,
+          0.13,
+          294.43,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.38,
+          "height": 220.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.42,
+        "bbox": [
+          0.0,
+          0.0,
+          294.83,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.83,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\232.jpg",
+    "image_size": {
+      "width": 314,
+      "height": 207
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.7166,
+        "bbox": [
+          0.0,
+          0.0,
+          314.0,
+          206.56
+        ],
+        "bbox_size": {
+          "width": 314.0,
+          "height": 206.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\233.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9433,
+        "bbox": [
+          0.0,
+          0.0,
+          312.92,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.92,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\234.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9703,
+        "bbox": [
+          0.22,
+          0.0,
+          311.87,
+          207.78
+        ],
+        "bbox_size": {
+          "width": 311.65,
+          "height": 207.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\235.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9741,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          208.82
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 208.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\236.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9853,
+        "bbox": [
+          0.26,
+          0.16,
+          312.95,
+          208.75
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 208.59
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\237.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9858,
+        "bbox": [
+          0.24,
+          0.0,
+          313.0,
+          208.92
+        ],
+        "bbox_size": {
+          "width": 312.76,
+          "height": 208.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\238.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9808,
+        "bbox": [
+          0.27,
+          0.0,
+          312.0,
+          207.31
+        ],
+        "bbox_size": {
+          "width": 311.73,
+          "height": 207.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\239.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9684,
+        "bbox": [
+          0.17,
+          0.0,
+          308.82,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 308.65,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\24.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.3,
+          254.82,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\240.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\241.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\242.jpg",
+    "image_size": {
+      "width": 344,
+      "height": 189
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9832,
+        "bbox": [
+          0.22,
+          0.23,
+          343.16,
+          189.0
+        ],
+        "bbox_size": {
+          "width": 342.94,
+          "height": 188.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\243.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 248
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9768,
+        "bbox": [
+          0.08,
+          0.0,
+          261.99,
+          247.9
+        ],
+        "bbox_size": {
+          "width": 261.91,
+          "height": 247.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\244.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\245.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9841,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.65
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\246.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\247.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\248.jpg",
+    "image_size": {
+      "width": 258,
+      "height": 252
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9782,
+        "bbox": [
+          0.0,
+          0.0,
+          258.0,
+          252.0
+        ],
+        "bbox_size": {
+          "width": 258.0,
+          "height": 252.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\249.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9536,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\25.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9536,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\250.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\251.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\252.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.0,
+          0.3,
+          254.82,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.82,
+          "height": 254.7
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\253.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 225
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9909,
+        "bbox": [
+          0.21,
+          0.67,
+          288.67,
+          224.72
+        ],
+        "bbox_size": {
+          "width": 288.46,
+          "height": 224.05
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\254.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9885,
+        "bbox": [
+          0.21,
+          0.04,
+          254.94,
+          254.83
+        ],
+        "bbox_size": {
+          "width": 254.73,
+          "height": 254.79
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\255.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.34,
+          0.91,
+          322.79,
+          201.47
+        ],
+        "bbox_size": {
+          "width": 322.45,
+          "height": 200.56
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\256.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9884,
+        "bbox": [
+          0.36,
+          0.0,
+          316.88,
+          205.1
+        ],
+        "bbox_size": {
+          "width": 316.52,
+          "height": 205.1
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\257.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9841,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.65
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\258.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.4385,
+        "bbox": [
+          0.05,
+          0.13,
+          294.43,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.38,
+          "height": 220.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.42,
+        "bbox": [
+          0.0,
+          0.0,
+          294.83,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.83,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\259.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9433,
+        "bbox": [
+          0.0,
+          0.0,
+          312.92,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.92,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\26.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\260.jpg",
+    "image_size": {
+      "width": 311,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9584,
+        "bbox": [
+          0.01,
+          0.11,
+          311.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 310.99,
+          "height": 208.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\261.jpg",
+    "image_size": {
+      "width": 300,
+      "height": 217
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.0,
+          0.0,
+          300.0,
+          216.64
+        ],
+        "bbox_size": {
+          "width": 300.0,
+          "height": 216.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\262.jpg",
+    "image_size": {
+      "width": 316,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9842,
+        "bbox": [
+          0.03,
+          0.0,
+          316.0,
+          205.78
+        ],
+        "bbox_size": {
+          "width": 315.97,
+          "height": 205.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\263.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9518,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          207.19
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 207.19
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\264.jpg",
+    "image_size": {
+      "width": 258,
+      "height": 252
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9782,
+        "bbox": [
+          0.0,
+          0.0,
+          258.0,
+          252.0
+        ],
+        "bbox_size": {
+          "width": 258.0,
+          "height": 252.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\265.jpg",
+    "image_size": {
+      "width": 289,
+      "height": 226
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9834,
+        "bbox": [
+          0.11,
+          0.07,
+          288.98,
+          225.84
+        ],
+        "bbox_size": {
+          "width": 288.87,
+          "height": 225.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\266.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.987,
+        "bbox": [
+          0.16,
+          0.0,
+          294.87,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.71,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\267.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.22,
+          0.56,
+          305.0,
+          214.0
+        ],
+        "bbox_size": {
+          "width": 304.78,
+          "height": 213.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\268.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.0,
+          312.0,
+          207.89
+        ],
+        "bbox_size": {
+          "width": 312.0,
+          "height": 207.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\269.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.19,
+          304.73,
+          213.57
+        ],
+        "bbox_size": {
+          "width": 304.73,
+          "height": 213.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\27.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\270.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.4385,
+        "bbox": [
+          0.05,
+          0.13,
+          294.43,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.38,
+          "height": 220.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.42,
+        "bbox": [
+          0.0,
+          0.0,
+          294.83,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.83,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\271.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9841,
+        "bbox": [
+          0.0,
+          0.08,
+          303.0,
+          214.39
+        ],
+        "bbox_size": {
+          "width": 303.0,
+          "height": 214.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\272.jpg",
+    "image_size": {
+      "width": 316,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9842,
+        "bbox": [
+          0.03,
+          0.0,
+          316.0,
+          205.78
+        ],
+        "bbox_size": {
+          "width": 315.97,
+          "height": 205.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\273.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9793,
+        "bbox": [
+          0.28,
+          0.0,
+          312.0,
+          206.88
+        ],
+        "bbox_size": {
+          "width": 311.72,
+          "height": 206.88
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\274.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9518,
+        "bbox": [
+          0.0,
+          0.0,
+          313.0,
+          207.19
+        ],
+        "bbox_size": {
+          "width": 313.0,
+          "height": 207.19
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\275.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9275,
+        "bbox": [
+          0.0,
+          0.0,
+          295.0,
+          220.78
+        ],
+        "bbox_size": {
+          "width": 295.0,
+          "height": 220.78
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\276.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9799,
+        "bbox": [
+          0.17,
+          0.0,
+          312.0,
+          207.98
+        ],
+        "bbox_size": {
+          "width": 311.83,
+          "height": 207.98
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\277.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.0,
+          0.0,
+          301.87,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.87,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\278.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9852,
+        "bbox": [
+          0.0,
+          0.0,
+          206.62,
+          310.82
+        ],
+        "bbox_size": {
+          "width": 206.62,
+          "height": 310.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\279.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\28.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\280.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\281.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\282.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "grape",
+        "confidence": 0.4385,
+        "bbox": [
+          0.05,
+          0.13,
+          294.43,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.38,
+          "height": 220.87
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      },
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.42,
+        "bbox": [
+          0.0,
+          0.0,
+          294.83,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.83,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\283.jpg",
+    "image_size": {
+      "width": 311,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9584,
+        "bbox": [
+          0.01,
+          0.11,
+          311.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 310.99,
+          "height": 208.89
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\284.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9614,
+        "bbox": [
+          0.01,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.99,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\285.jpg",
+    "image_size": {
+      "width": 303,
+      "height": 215
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9841,
+        "bbox": [
+          0.0,
+          0.08,
+          303.0,
+          214.39
+        ],
+        "bbox_size": {
+          "width": 303.0,
+          "height": 214.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\286.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9433,
+        "bbox": [
+          0.0,
+          0.0,
+          312.92,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.92,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\287.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9474,
+        "bbox": [
+          0.06,
+          0.42,
+          305.0,
+          214.0
+        ],
+        "bbox_size": {
+          "width": 304.94,
+          "height": 213.58
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\29.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9848,
+        "bbox": [
+          0.8,
+          0.25,
+          323.71,
+          201.58
+        ],
+        "bbox_size": {
+          "width": 322.91,
+          "height": 201.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\3.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\30.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9829,
+        "bbox": [
+          0.0,
+          0.0,
+          206.79,
+          311.39
+        ],
+        "bbox_size": {
+          "width": 206.79,
+          "height": 311.39
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\31.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9668,
+        "bbox": [
+          0.2,
+          0.0,
+          293.0,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.8,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\32.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\33.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9536,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\34.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 248
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9768,
+        "bbox": [
+          0.08,
+          0.0,
+          261.99,
+          247.9
+        ],
+        "bbox_size": {
+          "width": 261.91,
+          "height": 247.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\35.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\36.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.0,
+          312.75,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.75,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\37.jpg",
+    "image_size": {
+      "width": 228,
+      "height": 285
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9883,
+        "bbox": [
+          0.45,
+          0.0,
+          227.04,
+          284.61
+        ],
+        "bbox_size": {
+          "width": 226.59,
+          "height": 284.61
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\38.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9847,
+        "bbox": [
+          0.24,
+          0.0,
+          312.93,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 312.69,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\39.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.8931,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\4.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\40.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.32,
+          0.0,
+          312.67,
+          207.81
+        ],
+        "bbox_size": {
+          "width": 312.35,
+          "height": 207.81
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\41.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\42.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9849,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.33
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\43.jpg",
+    "image_size": {
+      "width": 298,
+      "height": 218
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.988,
+        "bbox": [
+          0.23,
+          0.0,
+          298.0,
+          216.2
+        ],
+        "bbox_size": {
+          "width": 297.77,
+          "height": 216.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\44.jpg",
+    "image_size": {
+      "width": 317,
+      "height": 206
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9833,
+        "bbox": [
+          0.17,
+          0.03,
+          317.0,
+          204.86
+        ],
+        "bbox_size": {
+          "width": 316.83,
+          "height": 204.83
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\45.jpg",
+    "image_size": {
+      "width": 305,
+      "height": 214
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.982,
+        "bbox": [
+          0.0,
+          0.19,
+          304.73,
+          213.57
+        ],
+        "bbox_size": {
+          "width": 304.73,
+          "height": 213.38
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\46.jpg",
+    "image_size": {
+      "width": 258,
+      "height": 252
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9782,
+        "bbox": [
+          0.0,
+          0.0,
+          258.0,
+          252.0
+        ],
+        "bbox_size": {
+          "width": 258.0,
+          "height": 252.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\47.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\48.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\49.jpg",
+    "image_size": {
+      "width": 301,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.35,
+          0.0,
+          300.8,
+          215.72
+        ],
+        "bbox_size": {
+          "width": 300.45,
+          "height": 215.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\5.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9849,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.33
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\50.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9849,
+        "bbox": [
+          0.13,
+          0.0,
+          312.0,
+          207.33
+        ],
+        "bbox_size": {
+          "width": 311.87,
+          "height": 207.33
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\51.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\52.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\53.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\54.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.07,
+          0.0,
+          312.0,
+          207.86
+        ],
+        "bbox_size": {
+          "width": 311.93,
+          "height": 207.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\55.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\56.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9668,
+        "bbox": [
+          0.2,
+          0.0,
+          293.0,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.8,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\57.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9536,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\58.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 248
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9768,
+        "bbox": [
+          0.08,
+          0.0,
+          261.99,
+          247.9
+        ],
+        "bbox_size": {
+          "width": 261.91,
+          "height": 247.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\59.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\6.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\60.jpg",
+    "image_size": {
+      "width": 262,
+      "height": 248
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9768,
+        "bbox": [
+          0.08,
+          0.0,
+          261.99,
+          247.9
+        ],
+        "bbox_size": {
+          "width": 261.91,
+          "height": 247.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\61.jpg",
+    "image_size": {
+      "width": 282,
+      "height": 232
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9725,
+        "bbox": [
+          0.27,
+          0.0,
+          281.94,
+          231.51
+        ],
+        "bbox_size": {
+          "width": 281.67,
+          "height": 231.51
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\62.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\63.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9804,
+        "bbox": [
+          0.1,
+          0.0,
+          312.0,
+          207.5
+        ],
+        "bbox_size": {
+          "width": 311.9,
+          "height": 207.5
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\64.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9779,
+        "bbox": [
+          0.0,
+          0.32,
+          254.81,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.81,
+          "height": 254.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\65.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9812,
+        "bbox": [
+          0.11,
+          0.0,
+          312.0,
+          209.0
+        ],
+        "bbox_size": {
+          "width": 311.89,
+          "height": 209.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\66.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9838,
+        "bbox": [
+          0.0,
+          0.0,
+          206.49,
+          311.43
+        ],
+        "bbox_size": {
+          "width": 206.49,
+          "height": 311.43
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\67.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\68.jpg",
+    "image_size": {
+      "width": 294,
+      "height": 222
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9861,
+        "bbox": [
+          0.2,
+          0.0,
+          293.98,
+          221.68
+        ],
+        "bbox_size": {
+          "width": 293.78,
+          "height": 221.68
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\69.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9852,
+        "bbox": [
+          0.0,
+          0.0,
+          206.62,
+          310.82
+        ],
+        "bbox_size": {
+          "width": 206.62,
+          "height": 310.82
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\7.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9668,
+        "bbox": [
+          0.2,
+          0.0,
+          293.0,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.8,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\70.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.0,
+          0.0,
+          301.87,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.87,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\71.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9911,
+        "bbox": [
+          0.21,
+          0.0,
+          302.0,
+          215.72
+        ],
+        "bbox_size": {
+          "width": 301.79,
+          "height": 215.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\72.jpg",
+    "image_size": {
+      "width": 287,
+      "height": 228
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9765,
+        "bbox": [
+          0.25,
+          0.0,
+          286.86,
+          227.2
+        ],
+        "bbox_size": {
+          "width": 286.61,
+          "height": 227.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\73.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9823,
+        "bbox": [
+          0.18,
+          0.0,
+          292.6,
+          222.54
+        ],
+        "bbox_size": {
+          "width": 292.42,
+          "height": 222.54
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\74.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9882,
+        "bbox": [
+          0.0,
+          0.0,
+          301.87,
+          215.77
+        ],
+        "bbox_size": {
+          "width": 301.87,
+          "height": 215.77
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\75.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\76.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.969,
+        "bbox": [
+          0.15,
+          0.24,
+          311.92,
+          208.68
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 208.44
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\77.jpg",
+    "image_size": {
+      "width": 324,
+      "height": 201
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9846,
+        "bbox": [
+          0.15,
+          0.5,
+          323.79,
+          200.54
+        ],
+        "bbox_size": {
+          "width": 323.64,
+          "height": 200.04
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\78.jpg",
+    "image_size": {
+      "width": 287,
+      "height": 228
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9765,
+        "bbox": [
+          0.25,
+          0.0,
+          286.86,
+          227.2
+        ],
+        "bbox_size": {
+          "width": 286.61,
+          "height": 227.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\79.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9863,
+        "bbox": [
+          0.14,
+          0.0,
+          311.91,
+          207.17
+        ],
+        "bbox_size": {
+          "width": 311.77,
+          "height": 207.17
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\8.jpg",
+    "image_size": {
+      "width": 323,
+      "height": 202
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9753,
+        "bbox": [
+          0.0,
+          0.68,
+          322.74,
+          201.6
+        ],
+        "bbox_size": {
+          "width": 322.74,
+          "height": 200.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\80.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9874,
+        "bbox": [
+          0.0,
+          0.0,
+          206.99,
+          310.6
+        ],
+        "bbox_size": {
+          "width": 206.99,
+          "height": 310.6
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\81.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9897,
+        "bbox": [
+          0.0,
+          0.0,
+          206.41,
+          311.2
+        ],
+        "bbox_size": {
+          "width": 206.41,
+          "height": 311.2
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\82.jpg",
+    "image_size": {
+      "width": 208,
+      "height": 312
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9838,
+        "bbox": [
+          0.0,
+          0.0,
+          206.49,
+          311.43
+        ],
+        "bbox_size": {
+          "width": 206.49,
+          "height": 311.43
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\83.jpg",
+    "image_size": {
+      "width": 283,
+      "height": 231
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9828,
+        "bbox": [
+          0.19,
+          0.0,
+          283.0,
+          231.0
+        ],
+        "bbox_size": {
+          "width": 282.81,
+          "height": 231.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\84.jpg",
+    "image_size": {
+      "width": 311,
+      "height": 210
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9818,
+        "bbox": [
+          0.16,
+          0.0,
+          311.0,
+          210.0
+        ],
+        "bbox_size": {
+          "width": 310.84,
+          "height": 210.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\85.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9813,
+        "bbox": [
+          0.5,
+          0.0,
+          310.64,
+          207.86
+        ],
+        "bbox_size": {
+          "width": 310.14,
+          "height": 207.86
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\86.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.979,
+        "bbox": [
+          0.0,
+          0.36,
+          254.9,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 254.9,
+          "height": 254.64
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\87.jpg",
+    "image_size": {
+      "width": 295,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9803,
+        "bbox": [
+          0.38,
+          0.0,
+          295.0,
+          221.0
+        ],
+        "bbox_size": {
+          "width": 294.62,
+          "height": 221.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\88.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9536,
+        "bbox": [
+          0.0,
+          0.0,
+          255.0,
+          255.0
+        ],
+        "bbox_size": {
+          "width": 255.0,
+          "height": 255.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\89.jpg",
+    "image_size": {
+      "width": 381,
+      "height": 171
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9444,
+        "bbox": [
+          0.0,
+          0.0,
+          381.0,
+          171.0
+        ],
+        "bbox_size": {
+          "width": 381.0,
+          "height": 171.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\9.jpg",
+    "image_size": {
+      "width": 255,
+      "height": 255
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9546,
+        "bbox": [
+          0.29,
+          0.63,
+          254.72,
+          254.35
+        ],
+        "bbox_size": {
+          "width": 254.43,
+          "height": 253.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\90.jpg",
+    "image_size": {
+      "width": 312,
+      "height": 208
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9808,
+        "bbox": [
+          0.27,
+          0.0,
+          312.0,
+          207.31
+        ],
+        "bbox_size": {
+          "width": 311.73,
+          "height": 207.31
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\91.jpg",
+    "image_size": {
+      "width": 302,
+      "height": 216
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9814,
+        "bbox": [
+          0.1,
+          0.0,
+          302.0,
+          216.0
+        ],
+        "bbox_size": {
+          "width": 301.9,
+          "height": 216.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\92.jpg",
+    "image_size": {
+      "width": 340,
+      "height": 191
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9669,
+        "bbox": [
+          0.21,
+          0.3,
+          339.65,
+          190.49
+        ],
+        "bbox_size": {
+          "width": 339.44,
+          "height": 190.19
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\93.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9858,
+        "bbox": [
+          0.24,
+          0.0,
+          313.0,
+          208.92
+        ],
+        "bbox_size": {
+          "width": 312.76,
+          "height": 208.92
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\94.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9776,
+        "bbox": [
+          0.0,
+          0.05,
+          312.96,
+          208.77
+        ],
+        "bbox_size": {
+          "width": 312.96,
+          "height": 208.72
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\95.jpg",
+    "image_size": {
+      "width": 309,
+      "height": 211
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9684,
+        "bbox": [
+          0.17,
+          0.0,
+          308.82,
+          211.0
+        ],
+        "bbox_size": {
+          "width": 308.65,
+          "height": 211.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\96.jpg",
+    "image_size": {
+      "width": 296,
+      "height": 221
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9873,
+        "bbox": [
+          0.26,
+          0.0,
+          295.89,
+          220.65
+        ],
+        "bbox_size": {
+          "width": 295.63,
+          "height": 220.65
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\97.jpg",
+    "image_size": {
+      "width": 221,
+      "height": 294
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.971,
+        "bbox": [
+          0.57,
+          0.66,
+          221.0,
+          294.0
+        ],
+        "bbox_size": {
+          "width": 220.43,
+          "height": 293.34
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\98.jpg",
+    "image_size": {
+      "width": 313,
+      "height": 209
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9778,
+        "bbox": [
+          0.23,
+          0.36,
+          313.0,
+          208.26
+        ],
+        "bbox_size": {
+          "width": 312.77,
+          "height": 207.9
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  },
+  {
+    "mode": "fruit",
+    "image": "D:\\Kaiyuan\\UGRD\\大二\\作业\\人工智能基础与进阶实训\\大二下\\期末大作业\\image_reccognition_code\\水果_人脸数据集\\test_data\\fruits\\apple\\99.jpg",
+    "image_size": {
+      "width": 293,
+      "height": 223
+    },
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9668,
+        "bbox": [
+          0.2,
+          0.0,
+          293.0,
+          223.0
+        ],
+        "bbox_size": {
+          "width": 292.8,
+          "height": 223.0
+        },
+        "position": "??????",
+        "description": "??????????????????"
+      }
+    ]
+  }
+]

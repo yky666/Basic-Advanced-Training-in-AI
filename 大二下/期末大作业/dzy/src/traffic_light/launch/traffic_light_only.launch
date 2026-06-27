@@ -1,0 +1,29 @@
+<launch>
+  <arg name="deploy_dir" default="$(find traffic_light)"/>
+  <arg name="image_topic" default="/camera/color/image_raw"/>
+  <arg name="nogui" default="true"/>
+
+  <node pkg="traffic_light" type="traffic_light_ros_node.py" name="traffic_light" output="screen">
+    <param name="deploy_dir" value="$(arg deploy_dir)"/>
+    <param name="script_path" value="$(arg deploy_dir)/scripts/traffic_light_yolo.py"/>
+    <param name="model_path" value="$(arg deploy_dir)/weights/traffic_light_best.pt"/>
+    
+    <param name="image_topic" value="$(arg image_topic)"/>
+    <param name="stable_frames" value="6"/>
+    <param name="min_side_green_score" value="1500"/>
+    <param name="brightness_threshold" value="120"/>
+    <param name="show_debug" value="true"/>
+    <param name="nogui" value="$(arg nogui)"/>
+    <param name="use_yolo_roi" value="true"/>
+    <param name="yolo_conf" value="0.50"/>
+    <param name="use_yolo_class_lights" value="true"/>
+    <param name="left_roi_x" value="0.0"/>
+    <param name="left_roi_y" value="0.0"/>
+    <param name="left_roi_w" value="0.45"/>
+    <param name="left_roi_h" value="0.70"/>
+    <param name="right_roi_x" value="0.52"/>
+    <param name="right_roi_y" value="0.0"/>
+    <param name="right_roi_w" value="0.38"/>
+    <param name="right_roi_h" value="0.70"/>
+  </node>
+</launch>

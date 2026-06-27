@@ -1,0 +1,9 @@
+path: ../prepared_datasets/fruit
+train: images/train
+val: images/val
+
+names:
+  0: apple
+  1: banana
+  2: grape
+  3: orange

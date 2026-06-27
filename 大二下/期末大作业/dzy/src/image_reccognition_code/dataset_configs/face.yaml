@@ -1,0 +1,9 @@
+path: ../prepared_datasets/face
+train: images/train
+val: images/val
+
+names:
+  0: dengziqi
+  1: liuyifei
+  2: renxianqi
+  3: sabeining

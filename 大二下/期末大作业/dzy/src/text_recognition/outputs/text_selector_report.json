@@ -1,0 +1,125 @@
+{
+  "model_path": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/models/text_selector.joblib",
+  "data_root": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data",
+  "total_count": 60,
+  "train_count": 45,
+  "val_count": 15,
+  "classes": [
+    "face",
+    "fruit"
+  ],
+  "classification_report": {
+    "face": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "fruit": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 15.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 15.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      7,
+      0
+    ],
+    [
+      0,
+      8
+    ]
+  ],
+  "val_samples": [
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/31.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/37.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/54.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/22.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/55.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/52.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/18.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/4.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/26.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/39.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/44.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/56.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/fruit/43.jpg",
+      "label": "fruit",
+      "prediction": "fruit"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/微信图片_20260611093715_2218_2.jpg",
+      "label": "face",
+      "prediction": "face"
+    },
+    {
+      "image": "/home/agilex/agilex_ws/src/dzy/src/text_recognition/data/face/19.jpg",
+      "label": "face",
+      "prediction": "face"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# VSCode 所有冗余文件
+.vscode/
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# ROS 冗余文件
+build/
+devel/
+install/
+log/
+# 系统临时文件
+*.tmp
+*.swp
+*.DS_Store

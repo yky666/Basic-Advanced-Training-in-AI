@@ -1,0 +1,316 @@
+route_name: route_a2_right_green
+frame_id: map
+base_frame: base_link
+
+global_params:
+  xy_tolerance: 0.20
+  yaw_tolerance: 0.35
+  transition_xy_tolerance: 0.25
+  ramp_xy_tolerance: 0.30
+  goal_timeout: 60.0
+
+waypoints:
+- name: traffic_light_view
+  x: 0.0197
+  y: 0.1491
+  z: 0.0
+  yaw: -2.95869
+  yaw_deg: -169.52
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.995821
+    w: -0.091324
+
+- name: right_channel_entry
+  x: -0.7045
+  y: -0.0311
+  z: 0.0
+  yaw: -2.979603
+  yaw_deg: -170.719
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.996722
+    w: -0.080906
+
+- name: right_channel_exit
+  x: -1.7523
+  y: 0.4927
+  z: 0.0
+  yaw: 2.817492
+  yaw_deg: 161.43
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.986899
+    w: 0.161342
+
+- name: a2_text_view
+  x: -2.8083
+  y: 0.7572
+  z: 0.0
+  yaw: 2.807958
+  yaw_deg: 160.884
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.986118
+    w: 0.166045
+
+- name: a2_to_b1_mid
+  x: -3.4016
+  y: 0.2512
+  z: 0.0
+  yaw: -3.110732
+  yaw_deg: -178.232
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.999881
+    w: -0.01543
+
+- name: b1_fruit_view
+  x: -5.0739
+  y: -1.7718
+  z: 0.0
+  yaw: -3.023466
+  yaw_deg: -173.232
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.998256
+    w: -0.059029
+
+- name: b1_to_b2_mid
+  x: -4.5105
+  y: -0.5717
+  z: 0.0
+  yaw: 1.988971
+  yaw_deg: 113.96
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.838479
+    w: 0.544935
+
+- name: b2_face_view
+  x: -5.2766
+  y: -0.287
+  z: 0.0
+  yaw: -3.05607
+  yaw_deg: -175.1
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.999086
+    w: -0.042749
+
+- name: b2_to_c_mid
+  x: -4.6253
+  y: -1.1855
+  z: 0.0
+  yaw: 1.651196
+  yaw_deg: 94.607
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.734953
+    w: 0.678118
+
+- name: c_pre_align
+  x: -4.7328
+  y: -0.3506
+  z: 0.0
+  yaw: 1.660551
+  yaw_deg: 95.143
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.738117
+    w: 0.674673
+
+- name: c_line_start
+  x: -5.0698
+  y: 0.5642
+  z: 0.0
+  yaw: 1.664465
+  yaw_deg: 95.367
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.739436
+    w: 0.673227
+
+- name: ramp_entry
+  x: -3.0747
+  y: 2.6859
+  z: 0.0
+  yaw: -0.146303
+  yaw_deg: -8.383
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.073086
+    w: -0.997326
+
+- name: ramp_top
+  x: -2.3532
+  y: 2.6999
+  z: 0.0
+  yaw: 0.052527
+  yaw_deg: 3.01
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.026261
+    w: -0.999655
+
+- name: ramp_exit
+  x: -2.0116
+  y: 2.7171
+  z: 0.0
+  yaw: 0.046002
+  yaw_deg: 2.636
+  position_only: true
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.022999
+    w: -0.999735
+
+- name: d_report
+  x: -1.3878
+  y: 2.881
+  z: 0.0
+  yaw: 0.140886
+  yaw_deg: 8.072
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.070385
+    w: -0.99752
+
+steps:
+- name: right_channel_entry
+  type: transition
+  waypoint: right_channel_entry
+  position_only: true
+  wait_after: 0.0
+
+- name: right_channel_exit
+  type: transition
+  waypoint: right_channel_exit
+  position_only: true
+  wait_after: 0.0
+
+- name: a2_text_view
+  type: task
+  waypoint: a2_text_view
+  wait_after: 5.0
+  hook:
+    module: a_text
+    start_topic: /a_text/start
+    msg_type: Bool
+    value: true
+    result_topic: /a_text/result
+    wait_result: false
+
+- name: a2_to_b1_mid
+  type: transition
+  waypoint: a2_to_b1_mid
+  position_only: true
+  wait_after: 0.0
+
+- name: b1_fruit_view
+  type: task
+  waypoint: b1_fruit_view
+  wait_after: 5.0
+  hook:
+    module: b1_fruit
+    start_topic: /b1_fruit/start
+    msg_type: Bool
+    value: true
+    result_topic: /b1_fruit/result
+    wait_result: false
+
+- name: b1_to_b2_mid
+  type: transition
+  waypoint: b1_to_b2_mid
+  position_only: true
+  wait_after: 0.0
+
+- name: b2_face_view
+  type: task
+  waypoint: b2_face_view
+  wait_after: 5.0
+  hook:
+    module: b2_face
+    start_topic: /b2_face/start
+    msg_type: Bool
+    value: true
+    result_topic: /b2_face/result
+    wait_result: false
+
+- name: b2_to_c_mid
+  type: transition
+  waypoint: b2_to_c_mid
+  position_only: true
+  wait_after: 0.0
+
+- name: c_pre_align
+  type: align
+  waypoint: c_pre_align
+  position_only: false
+  wait_after: 1.0
+
+- name: c_line_start
+  type: task
+  waypoint: c_line_start
+  position_only: false
+  wait_after: 1.0
+
+- name: line_follow
+  type: line_follow_launch
+  launch_file: "$(find vision_line_follow)/launch/line_follow.launch"
+  done_topic: /line_follow/done
+  timeout: 45.0
+  continue_on_timeout: false
+
+- name: ramp_entry
+  type: transition
+  waypoint: ramp_entry
+  position_only: false
+  wait_after: 0.0
+
+- name: ramp_top
+  type: transition
+  waypoint: ramp_top
+  position_only: true
+  xy_tolerance: 0.30
+  wait_after: 0.0
+
+- name: ramp_exit
+  type: transition
+  waypoint: ramp_exit
+  position_only: true
+  xy_tolerance: 0.30
+  wait_after: 0.0
+
+- name: d_report
+  type: task
+  waypoint: d_report
+  wait_after: 5.0
+  hook:
+    module: final_report
+    start_topic: /final_report/start
+    msg_type: Bool
+    value: true
+    result_topic: /final_report/done
+    wait_result: false

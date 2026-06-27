@@ -1,0 +1,9 @@
+path: D:/Kaiyuan/UGRD/大二/作业/人工智能基础与进阶实训/大二下/期末大作业/image_reccognition_code/prepared_datasets/fruit
+train: images/train
+val: images/val
+
+names:
+  0: apple
+  1: banana
+  2: grape
+  3: orange

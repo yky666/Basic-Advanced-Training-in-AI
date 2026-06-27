@@ -1,0 +1,35 @@
+<launch>
+    <!-- LIMO 自定义键盘控制节点 -->
+
+    <!-- 默认前进/后退线速度，单位 m/s -->
+    <arg name="linear_speed" default="0.350" />
+
+    <!-- 默认转向角速度，单位 rad/s -->
+    <arg name="angular_speed" default="0.80" />
+
+    <!-- 每次按 i/k 调整线速度的步长 -->
+    <arg name="linear_step" default="0.05" />
+
+    <!-- 每次按 j/l 调整角速度的步长 -->
+    <arg name="angular_step" default="0.10" />
+
+    <!-- 最大线速度限制 -->
+    <arg name="max_linear_speed" default="1.00" />
+
+    <!-- 最大角速度限制 -->
+    <arg name="max_angular_speed" default="2.00" />
+
+    <node pkg="limo_bringup"
+          type="limo_keyboard_control.py"
+          name="limo_keyboard_control"
+          output="screen">
+
+        <param name="linear_speed" value="$(arg linear_speed)" />
+        <param name="angular_speed" value="$(arg angular_speed)" />
+        <param name="linear_step" value="$(arg linear_step)" />
+        <param name="angular_step" value="$(arg angular_step)" />
+        <param name="max_linear_speed" value="$(arg max_linear_speed)" />
+        <param name="max_angular_speed" value="$(arg max_angular_speed)" />
+
+    </node>
+</launch>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>traffic_light</name>
+  <version>0.1.0</version>
+  <description>Traffic light recognition with YCbCr thresholds and YOLOv8.</description>
+
+  <maintainer email="student@example.com">student</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <exec_depend>python3-opencv</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-rospkg</exec_depend>
+  <!-- Install Python packages with pip on the car: ultralytics torch torchvision. -->
+
+  <export>
+  </export>
+</package>

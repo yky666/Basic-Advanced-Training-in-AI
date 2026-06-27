@@ -1,0 +1,3 @@
+scorpio@scorpio:~/scorpio$ roslaunch scorpio_navigation scorpio_navigation.launch 
+
+scorpio@scorpio:~/scorpio/src/scorpio/scorpio_teleop/scripts$ python3 goal_pub_loop.py nav

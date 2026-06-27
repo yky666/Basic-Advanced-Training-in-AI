@@ -1,0 +1,63 @@
+<!-- Launch file for the rrt-detector, the assigner and return home function -->
+<launch>
+    <!-- RRT Exploration ²ÎÊý -->
+    <arg name="eta" value="2.0"/>
+    <arg name="Geta" value="40.0"/>
+    <param name="namespace_init_count" value="1"/>
+    
+    <!-- ·µº½¹¦ÄÜ²ÎÊý -->
+    <arg name="enable_return_home" default="true" doc="ÊÇ·ñÆôÓÃ×ÔÖ÷·µº½¹¦ÄÜ"/>
+    <arg name="frontier_timeout" default="15.0" doc="±ß½çµã³¬Ê±Ê±¼ä(Ãë)"/>
+    <arg name="navigation_timeout" default="180" doc="µ¼º½³¬Ê±Ê±¼ä(Ãë)"/>
+
+    <!-- RRTÌ½Ë÷½Úµã -->
+    <node pkg="rrt_exploration" type="global_rrt_detector" name="global_detector" output="screen">
+        <param name="eta" value="$(arg Geta)"/>
+        <param name="map_topic" value="/map"/>
+    </node>
+    
+    <node pkg="rrt_exploration" type="local_rrt_detector" name="local_detector" output="screen">
+        <param name="eta" value="$(arg eta)"/>
+        <param name="map_topic" value="/map"/>
+        <param name="robot_frame" value="/base_footprint"/>
+    </node>
+    
+    <node pkg="rrt_exploration" type="filter.py" name="filter" output="screen">
+        <param name="map_topic" value="/map"/>
+        <param name="info_radius" value="1"/> 
+        <param name="costmap_clearing_threshold" value="70"/> 
+        <param name="goals_topic" value="/detected_points"/>
+        <param name="namespace" value=""/> 
+        <param name="n_robots" value="1"/>
+        <param name="rate" value="100"/>
+        <param name="robot_frame" value="base_footprint"/>
+    </node>
+    
+    <node pkg="rrt_exploration" type="assigner.py" name="assigner" output="screen">
+        <param name="map_topic" value="/map"/>
+        <param name="global_frame" value="/map"/>
+        <param name="info_radius" value="1"/> 
+        <param name="info_multiplier" value="3.0"/> 
+        <param name="hysteresis_radius" value="3.0"/> 
+        <param name="hysteresis_gain" value="2.0"/> 
+        <param name="frontiers_topic" value="/filtered_points"/> 
+        <param name="n_robots" value="1"/>
+        <param name="namespace" value=""/>
+        <param name="delay_after_assignement" value="0.5"/>
+        <param name="rate" value="100"/>
+        <param name="robot_frame" value="base_footprint"/>
+    </node>
+    
+    <!-- ×ÔÖ÷·µº½½Úµã -->
+    <node if="$(arg enable_return_home)" pkg="rrt_exploration" type="return_home.py" name="return_home_node" output="screen">
+        <param name="frontier_timeout" value="$(arg frontier_timeout)" doc="±ß½çµã³¬Ê±Ê±¼ä£¬ÓÃÓÚÅÐ¶ÏÌ½Ë÷ÊÇ·ñÍê³É"/>
+        <param name="navigation_timeout" value="$(arg navigation_timeout)" doc="·µº½µ¼º½³¬Ê±Ê±¼ä"/>
+        <param name="map_topic" value="/map" doc="µØÍ¼»°ÌâÃû³Æ"/>
+        <param name="global_frame" value="/map" doc="È«¾Ö×ø±êÏµ"/>
+        <param name="robot_frame" value="/base_footprint" doc="»úÆ÷ÈË×ø±êÏµ"/>
+        <param name="move_base_topic" value="/move_base" doc="move_base¶¯×÷Ö÷Ìâ"/>
+        <param name="filtered_points_topic" value="/filtered_points" doc="¹ýÂËºó±ß½çµã»°Ìâ"/>
+        <remap from="/filtered_points" to="/filtered_points" doc="ÖØÓ³Éä±ß½çµã»°Ìâ"/>
+        <remap from="/move_base" to="/move_base" doc="ÖØÓ³Éäµ¼º½¶¯×÷·þÎñ"/>
+    </node>
+</launch>

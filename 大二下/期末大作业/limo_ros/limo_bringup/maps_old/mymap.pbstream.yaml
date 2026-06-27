@@ -1,0 +1,6 @@
+image: /home/agilex/agilex_ws/src/limo_ros/limo_bringup/maps/mymap.pbstream.pgm
+resolution: 0.050000
+origin: [-1.543812, -3.158870, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
