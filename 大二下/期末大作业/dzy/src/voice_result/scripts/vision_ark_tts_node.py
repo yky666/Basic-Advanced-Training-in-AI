@@ -13,7 +13,7 @@ from cv_bridge import CvBridge
 from volcenginesdkarkruntime import AsyncArk
 
 # ===================== 配置区 =====================
-ARK_API_KEY = "ark-ef377b91-01ce-4f42-804c-96b753d7608e-9e43b"
+ARK_API_KEY = "ark-xxxx"
 MODEL_ID = "doubao-seed-2-0-pro-260215"
 # ==================================================
 
